@@ -1,7 +1,7 @@
 
 import json, os, requests, pandas as pd, numpy as np, datetime as dt
 BASE="https://data-api.binance.vision/api/v3"
-FEE=0.001; SLOTS=10; STOP=0.10; START=100.0
+FEE=0.001; SLOTS=10; STOP=0.10; START=1000.0
 EXTRA=["MORPHOUSDT","ASTERUSDT","HYPEUSDT","PENDLEUSDT","RAYUSDT","TAOUSDT"]
 STABLE={"USDC","FDUSD","TUSD","DAI","USDP","EUR","BUSD","USDE","PAXG","WBTC","XUSD","USD1","RLUSD","BFUSD","WBETH","AEUR","XAUT","U"}
 def zlema(x,n):
@@ -48,5 +48,5 @@ if btc_ok:
 equity=st["cash"]+sum(p["qty"]*p["last"] for p in st["pos"].values())
 st["history"].append(dict(day=day,equity=round(equity,2),btc=btc.iloc[-1],positions=len(st["pos"])))
 json.dump(st,open("state.json","w"),indent=1)
-for ti,b in msgs: issue("[ZERO LAG] "+ti,b+f"\n\nCapital fictif total : {equity:.2f} EUR (depart 100 EUR). Positions ouvertes : {len(st['pos'])}.")
+for ti,b in msgs: issue("[ZERO LAG] "+ti,b+f"\n\nCapital fictif total : {equity:.2f} EUR (depart 1000 EUR). Positions ouvertes : {len(st['pos'])}.")
 print(day,round(equity,2),msgs)

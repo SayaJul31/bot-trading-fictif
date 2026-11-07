@@ -1,0 +1,12 @@
+{
+ "cash": 100.0,
+ "pos": {},
+ "history": [
+  {
+   "day": "2026-11-07",
+   "equity": 100.0,
+   "positions": 0
+  }
+ ],
+ "trades": []
+}

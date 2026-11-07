@@ -8,7 +8,7 @@ def issue(title,body):
     if tok and repo: requests.post(f"https://api.github.com/repos/{repo}/issues",headers={"Authorization":f"Bearer {tok}"},json={"title":title,"body":body},timeout=20)
 def load(name):
     f=f"state_{name}.json"
-    return json.load(open(f)) if os.path.exists(f) else {"cash":100.0,"pos":{},"history":[],"trades":[]}
+    return json.load(open(f)) if os.path.exists(f) else {"cash":1000.0,"pos":{},"history":[],"trades":[]}
 def rebalance(name,label,st,targets,px,stop=None):
     day=str(dt.date.today()); msgs=[]
     for s,p in st["pos"].items(): p["last"]=px.get(s,p["last"])
@@ -29,5 +29,5 @@ def rebalance(name,label,st,targets,px,stop=None):
     eq=st["cash"]+sum(p["qty"]*p["last"] for p in st["pos"].values())
     st["history"].append(dict(day=day,equity=round(eq,2),positions=len(st["pos"])))
     json.dump(st,open(f"state_{name}.json","w"),indent=1)
-    for t,b in msgs: issue(t,b+f"\n\nCapital fictif {label} : {eq:.2f} EUR (depart 100 EUR).")
+    for t,b in msgs: issue(t,b+f"\n\nCapital fictif {label} : {eq:.2f} EUR (depart 1000 EUR).")
     print(label,day,round(eq,2),[m[0] for m in msgs])

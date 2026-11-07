@@ -25,6 +25,7 @@ jobs:
           git config user.name "bot"
           git config user.email "bot@users.noreply.github.com"
           git pull --rebase || true
-          git add state*.json
+          python summary.py || true
+          git add state*.json README.md
           git commit -m "maj horaire" || true
           git push || (git pull --rebase && git push)

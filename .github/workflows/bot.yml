@@ -21,6 +21,7 @@ jobs:
           python bot_momentum.py || true
           python bot_narratifs.py || true
           python bot_copy.py || true
+          python bot_volume.py || true
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |

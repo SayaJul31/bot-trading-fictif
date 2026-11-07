@@ -1,0 +1,30 @@
+name: bots-haute-frequence
+on:
+  schedule:
+    - cron: "2 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency: hf
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install pandas numpy requests
+      - run: |
+          python bot_zl_tf.py 1h || true
+          H=$(date -u +%H); if [ $((10#$H % 4)) -eq 0 ] || [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then python bot_zl_tf.py 4h || true; fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@users.noreply.github.com"
+          git pull --rebase || true
+          git add state*.json
+          git commit -m "maj horaire" || true
+          git push || (git pull --rebase && git push)

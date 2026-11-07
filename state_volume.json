@@ -1,34 +1,7 @@
 {
- "cash": 90.0,
- "pos": {
-  "SNDKBUSDT": {
-   "qty": 0.011940191473340744,
-   "entry": 836.67,
-   "cost": 10.0,
-   "last": 838.79,
-   "day": "2026-11-07"
-  }
- },
- "history": [
-  {
-   "day": "2026-11-07",
-   "equity": 99.99,
-   "positions": 1
-  },
-  {
-   "day": "2026-11-07",
-   "equity": 100.02,
-   "positions": 1
-  }
- ],
- "trades": [
-  {
-   "day": "2026-11-07",
-   "side": "ACHAT",
-   "sym": "SNDKBUSDT",
-   "price": 836.67,
-   "amount": 10.0
-  }
- ],
+ "cash": 1000.0,
+ "pos": {},
+ "history": [],
+ "trades": [],
  "slots": 10
 }

@@ -21,7 +21,7 @@ def rebalance(name,label,st,targets,px,stop=None):
     eq=st["cash"]+sum(p["qty"]*p["last"] for p in st["pos"].values())
     new=[s for s in targets if s not in st["pos"] and s in px]
     for s in new:
-        a=min(eq/max(len(targets),1),st["cash"])
+        a=min(eq/st.get("slots",max(len(targets),1)),st["cash"])
         if a<1: break
         st["cash"]-=a; st["pos"][s]=dict(qty=a*(1-FEE)/px[s],entry=px[s],cost=a,last=px[s],day=day)
         st["trades"].append(dict(day=day,side="ACHAT",sym=s,price=px[s],amount=round(a,2)))

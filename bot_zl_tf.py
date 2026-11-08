@@ -6,6 +6,10 @@ STABLE={"USDC","FDUSD","TUSD","DAI","USDP","EUR","BUSD","USDE","PAXG","WBTC","XU
 def zlema(x,n):
     lag=(n-1)//2; return (x+(x-x.shift(lag))).ewm(span=n,adjust=False).mean()
 st=load(name); px=prices()
+import time as _t
+if iv=="4h" and _t.time()-st.get("last_run",0)<3.5*3600:
+    print("4h: trop tot"); raise SystemExit
+st["last_run"]=_t.time()
 t=pd.DataFrame(requests.get(BASE+"/ticker/24hr",timeout=20).json())
 t=t[t.symbol.str.endswith("USDT")&~t.symbol.str[:-4].isin(STABLE)]; t["qv"]=t.quoteVolume.astype(float)
 syms=list(dict.fromkeys(t.sort_values("qv",ascending=False).symbol.head(60).tolist()+list(st["pos"])+["BTCUSDT"]))

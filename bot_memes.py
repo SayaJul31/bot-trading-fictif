@@ -27,17 +27,23 @@ if st["pos"]:
         px=float(q["priceUsd"]) if q and q.get("priceUsd") else 0.0
         if px>0: p["last"]=px; p["peak"]=max(p.get("peak",px),px)
         mult=(p["last"]/p["entry"]) if p["entry"] else 0
+        if q is not None and liq>=5000 and mult>=2 and not p.get("half"):
+            part=p["cost"]*0.5; out=part*mult*(1-FEE-SLIP); st["cash"]+=out
+            p["cost"]-=part; p["half"]=True
+            st["trades"].append(dict(day=day,side="VENTE",sym=p["sym"],pnl=round(out/part-1,4),why="moitie vendue a x2"))
+            msgs.append((f"[MEMES] MOITIE VENDUE {p['sym']} x{mult:.1f}",f"Mise de depart recuperee. Le reste court avec un stop suiveur."))
         why=None
+        trail=0.5 if p["peak"]>=p["entry"]*10 else 0.4
         if q is None or liq<5000: why="liquidite disparue (rug probable)"; mult=0.0 if liq<1000 else mult
-        elif mult>=3: why="objectif x3 atteint"
-        elif mult<=0.5: why="stop -50 %"
-        elif p["last"]<=p["peak"]*0.6 and p["peak"]>=p["entry"]*1.5: why="stop suiveur (-40 % du pic)"
-        elif now-p["t"]>48*3600: why="duree max 48 h"
+        elif mult<=0.5 and not p.get("half"): why="stop -50 %"
+        elif p["peak"]>=p["entry"]*1.5 and p["last"]<=p["peak"]*(1-trail): why=f"stop suiveur (-{int(trail*100)} % du pic, pic x{p['peak']/p['entry']:.1f})"
+        elif now-p["t"]>48*3600 and not p.get("half"): why="duree max 48 h sans decoller"
+        elif now-p["t"]>14*86400: why="duree max 14 jours"
         if why:
             out=p["cost"]*mult*(1-FEE-SLIP); st["cash"]+=out
             pnl=out/p["cost"]-1
             st["trades"].append(dict(day=day,side="VENTE",sym=p["sym"],pnl=round(pnl,4),why=why))
-            msgs.append((f"[MEMES] VENTE {p['sym']} {pnl:+.0%}",f"{why}. Resultat {pnl:+.1%}."))
+            msgs.append((f"[MEMES] VENTE {p['sym']} x{mult:.1f}",f"{why}. Resultat sur la part restante {pnl:+.1%}."))
             del st["pos"][a]
 # 2) recherche de nouveaux tokens
 try:

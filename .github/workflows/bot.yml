@@ -22,6 +22,8 @@ jobs:
           python bot_narratifs.py || true
           python bot_copy.py || true
           python bot_volume.py || true
+          python bot_indic.py cassure || true
+          python bot_indic.py trois || true
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |

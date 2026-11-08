@@ -1,7 +1,8 @@
 name: bots-haute-frequence
 on:
   schedule:
-    - cron: "2 * * * *"
+    - cron: "7 * * * *"
+    - cron: "37 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -18,7 +19,7 @@ jobs:
       - run: pip install pandas numpy requests
       - run: |
           python bot_zl_tf.py 1h || true
-          H=$(date -u +%H); if [ $((10#$H % 4)) -eq 0 ] || [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then python bot_zl_tf.py 4h || true; fi
+          python bot_zl_tf.py 4h || true
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |

@@ -10,6 +10,12 @@ for f,n in names.items():
     win=sum(1 for t in sells if t.get("pnl",0)>0)
     pos=", ".join(k[:-4] for k in s.get("pos",{})) or "aucune"
     rows.append((n,eq,len(s.get("trades",[])),len(sells),win,pos))
+
+def _eq(f):
+    if not os.path.exists(f): return 1000.0
+    h=json.load(open(f)).get("history",[]); return h[-1]["equity"] if h else 1000.0
+for _n,_fs in [("EQUIPE 2 (Zero Lag + Cassure)",["state.json","state_cassure.json"]),("EQUIPE 3 (Zero Lag + Cassure + Volume)",["state.json","state_cassure.json","state_volume.json"])]:
+    rows.append((_n,sum(_eq(f) for f in _fs)/len(_fs),0,0,0,"capital partage entre "+str(len(_fs))+" bots"))
 rows.sort(key=lambda r:-r[1])
 out=["# Classement des bots (argent fictif, depart 1000 EUR chacun)","",f"Mis a jour : {dt.datetime.utcnow():%d/%m/%Y %H:%M} UTC","","| Rang | Bot | Capital | Perf | Trades | Ventes gagnantes | Positions |","|---|---|---|---|---|---|---|"]
 for i,(n,eq,nt,ns,w,p) in enumerate(rows,1):

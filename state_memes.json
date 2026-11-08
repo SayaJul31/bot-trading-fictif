@@ -4,7 +4,7 @@
   "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump": {
    "sym": "COGE",
    "entry": 0.00124733,
-   "last": 0.0008723,
+   "last": 0.0008919,
    "peak": 0.00124733,
    "cost": 50.0,
    "t": 1794127238.2072184,
@@ -13,8 +13,8 @@
   "DDDfDJGreM6pYbKEiB8NqkZ3RhgG9Q1zKK58SvcHpump": {
    "sym": "JASON",
    "entry": 0.000202086,
-   "last": 0.000202086,
-   "peak": 0.000202086,
+   "last": 0.0002024,
+   "peak": 0.0002024,
    "cost": 47.93605554889903,
    "t": 1794152085.7631438,
    "url": "https://dexscreener.com/solana/aluywhhvv5dajncyru5hzzb7omyhq9je52n5yraubtek"
@@ -29,6 +29,11 @@
   {
    "day": "2026-11-08 15:34",
    "equity": 958.72,
+   "positions": 2
+  },
+  {
+   "day": "2026-11-08 15:55",
+   "equity": 959.58,
    "positions": 2
   }
  ],
@@ -126,6 +131,12 @@
   "AFv7Xu3NnxV1k2rTU3mKAm7QRATBTkp6FxVZ5CQppump": 1794152085.7631438,
   "9dodcpZjR1fotbya6CtFbNAAZ1HRoqweuwnPCQrHpump": 1794152085.7631438,
   "Dt9po7qRdy74Eqfo8yABX1KhhqbQNo6QErisTuvUpump": 1794152085.7631438,
-  "HsXo7d9bFQZTbhAquXJBmykCJoPnzZVnx92GNrZTpump": 1794152085.7631438
+  "HsXo7d9bFQZTbhAquXJBmykCJoPnzZVnx92GNrZTpump": 1794152085.7631438,
+  "VjKCt9XXKQ5zjR2xf8hNyXc6VRJHMqrGaK7p7NtPLUS": 1794153350.122247,
+  "9rZymoVgvy5ACTFkCvBM1yNhDp7hLQzgY2P1rVRRpump": 1794153350.122247,
+  "ErvM3kEjJeCJZ24RSs4H75nSHGxkNxZaDyDKb2odpump": 1794153350.122247,
+  "5ZqaR5kgfjYwX3WDvnzEmzVfoSniuo1FJB8hJCQ3pump": 1794153350.122247,
+  "CcnnN36L73k3uBhVuMEwGGXZEWsdUeBAqNiAbiDVpump": 1794153350.122247,
+  "BK6oaiwqPHg3fxT7uqHG1H1mF3yGJiXJvaBLyVKApump": 1794153350.122247
  }
 }

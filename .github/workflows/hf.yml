@@ -20,6 +20,7 @@ jobs:
       - run: |
           python bot_zl_tf.py 1h || true
           python bot_zl_tf.py 4h || true
+          python bot_memes.py || true
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |

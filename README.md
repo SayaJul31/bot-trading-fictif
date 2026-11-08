@@ -1,6 +1,6 @@
 # Classement des bots (argent fictif, depart 1000 EUR chacun)
 
-Mis a jour : 08/11/2026 08:37 UTC
+Mis a jour : 08/11/2026 08:39 UTC
 
 | Rang | Bot | Capital | Perf | Trades | Ventes gagnantes | Positions |
 |---|---|---|---|---|---|---|
@@ -10,8 +10,10 @@ Mis a jour : 08/11/2026 08:37 UTC
 | 4 | Zero Lag 1h | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
 | 5 | Cassure de zone (daily) | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
 | 6 | 3 indicateurs (daily) | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
-| 7 | Volume whales (daily) | 999.70 EUR | -0.0 % | 2 | 0/1 | aucune |
-| 8 | Copy trading Hyperliquid | 992.63 EUR | -0.7 % | 3 | 1/1 | ZRO |
-| 9 | Narratifs (hebdo) | 982.69 EUR | -1.7 % | 3 | 0/0 | ARB, CYBER, POL |
+| 7 | EQUIPE 2 (Zero Lag + Cassure) | 1000.00 EUR | +0.0 % | 0 | 0/0 | capital partage entre 2 bots |
+| 8 | EQUIPE 3 (Zero Lag + Cassure + Volume) | 999.90 EUR | -0.0 % | 0 | 0/0 | capital partage entre 3 bots |
+| 9 | Volume whales (daily) | 999.70 EUR | -0.0 % | 2 | 0/1 | aucune |
+| 10 | Copy trading Hyperliquid | 992.63 EUR | -0.7 % | 3 | 1/1 | ZRO |
+| 11 | Narratifs (hebdo) | 982.69 EUR | -1.7 % | 3 | 0/0 | ARB, CYBER, POL |
 
 Aucun argent reel. Les trades sont dans l'onglet Issues.

@@ -1,6 +1,6 @@
 # Classement des bots (argent fictif, depart 1000 EUR chacun)
 
-Mis a jour : 08/11/2026 07:15 UTC
+Mis a jour : 08/11/2026 08:31 UTC
 
 | Rang | Bot | Capital | Perf | Trades | Ventes gagnantes | Positions |
 |---|---|---|---|---|---|---|

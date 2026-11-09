@@ -4,7 +4,7 @@
   "3bmau35kqfppwHekTPnbLkBPTExF2RZDGVkXcrzypump": {
    "sym": "S&P500",
    "entry": 0.000125351,
-   "last": 0.000125351,
+   "last": 0.0001104,
    "peak": 0.000125351,
    "cost": 45.3553862363411,
    "t": 1794182427.1379888,
@@ -40,6 +40,11 @@
   {
    "day": "2026-11-09 00:00",
    "equity": 907.11,
+   "positions": 1
+  },
+  {
+   "day": "2026-11-09 00:44",
+   "equity": 901.7,
    "positions": 1
   }
  ],
@@ -233,6 +238,17 @@
   "9NreoyFb9upDybBr1jgnTSKaXzMyjvsoAiQqCe8cpump": 1794182427.1379888,
   "DXucHQjnGGLnW8kkiBZEKp7gRhYHF9ni1aegyvqypump": 1794182427.1379888,
   "FCC5aFpXMVZMZJ75SAWRKvPsCbqc3Gz8ymbr8vNw1adP": 1794182427.1379888,
-  "AKrw6VbXiScJqZydENKhjJyJYXGsKJCVLmui95ngt1EK": 1794182427.1379888
+  "AKrw6VbXiScJqZydENKhjJyJYXGsKJCVLmui95ngt1EK": 1794182427.1379888,
+  "EFNXhdnk6envPtYuB885B4iZgGYoM6fcwv3SfPyYpump": 1794185071.493299,
+  "3DjMTYh64TaCR9vxas8X7z8GpaM6ULGncpBHfbXBpump": 1794185071.493299,
+  "CXz596uKfWb5tkyz5Vh5a9QCKKh38io6hdgGrKKcpump": 1794185071.493299,
+  "6GHUrwvKTio5BtyfGo2KTMdxDx4nxSc7gZW7EdZfkpit": 1794185071.493299,
+  "Ay3Aw2BkwHsc55ZLPHbG5CFej79M9Ycfw7YNLZUkpump": 1794185071.493299,
+  "qiXxj2wUKXXVcqJjjibubXkX33NA83Wyfg3onJppump": 1794185071.493299,
+  "CfzXjJWCtvJZgZoc4b3tUGkDAaKZaocb76jjzyZupump": 1794185071.493299,
+  "6hkiqwN2Vx85GFY4zcdq3vmyfCBAJKPNY11Y8ffcQDgc": 1794185071.493299,
+  "6dmEpqWMvuBMVG4prcubnA8YAZxLMnPFL1anfEbTpump": 1794185071.493299,
+  "4PaSGcz18rxbkZW65yjnsPCfs8M4KTcmREFTBzdFpump": 1794185071.493299,
+  "6fsjL1Qzi2bXE5unaatp19GtJSjhA7GrBGvbP3Ggpump": 1794185071.493299
  }
 }

@@ -25,6 +25,12 @@
    "equity": 1000.0,
    "btc": 74851.44,
    "positions": 0
+  },
+  {
+   "day": "2026-11-09",
+   "equity": 1000.0,
+   "btc": 75368.41,
+   "positions": 0
   }
  ],
  "trades": []

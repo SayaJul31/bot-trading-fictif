@@ -1,16 +1,6 @@
 {
- "cash": 784.8510755632665,
- "pos": {
-  "F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump": {
-   "sym": "BORLY",
-   "entry": 0.00134209,
-   "last": 0.00144,
-   "peak": 0.00158,
-   "cost": 43.22779097843149,
-   "t": 1794275171.2479002,
-   "url": "https://dexscreener.com/solana/7xwnpcwt4upj2hyuff4czvmmsvvws13k1w8ip6y4o5zq"
-  }
- },
+ "cash": 784.9054136009439,
+ "pos": {},
  "history": [
   {
    "day": "2026-11-08 08:40",
@@ -86,6 +76,11 @@
    "day": "2026-11-10 10:20",
    "equity": 831.23,
    "positions": 1
+  },
+  {
+   "day": "2026-11-10 17:41",
+   "equity": 784.91,
+   "positions": 0
   }
  ],
  "trades": [
@@ -165,6 +160,13 @@
    "sym": "OnlyCats",
    "pnl": -0.8438,
    "why": "stop -50 %"
+  },
+  {
+   "day": "2026-11-10 17:41",
+   "side": "VENTE",
+   "sym": "BORLY",
+   "pnl": -0.9987,
+   "why": "liquidite disparue (rug probable)"
   }
  ],
  "seen": {
@@ -485,6 +487,28 @@
   "2SQvBQ98KCi84gbfDMC8gDi1eyXikTsGuTqEvahmpump": 1794306043.232511,
   "FddmmMTyKQUxwvYwrTXRFwZhJb4ujMeWUF7WN39Xpump": 1794306043.232511,
   "9D1Fp7EDAiLGdAFX6ADiQb4F1xz2uLmiUWAL9qWBpump": 1794306043.232511,
-  "EZdf2umEMtd9gx22PUf6JFQXSAUHGWRR6n8puayPpump": 1794306043.232511
+  "EZdf2umEMtd9gx22PUf6JFQXSAUHGWRR6n8puayPpump": 1794306043.232511,
+  "Ereedz94JPD19GHJpe3uPYsKYE4qBspNYeyHtUetpump": 1794332481.0543003,
+  "4HLzQoz5KkhXFrwKfX1Jb2iEFBd9QseFAEJvjqDdpump": 1794332481.0543003,
+  "NCwA7tiyCu5HhierYoiY2x5vqPBJpoPKFqSuAxgpump": 1794332481.0543003,
+  "NmoNkpkN59oYmSkqh51wgymyuuePizXSGPNgBa4pump": 1794332481.0543003,
+  "7SL2VnfYsChvog5oQY9Nmtqu1wceaMiQzWoqoLQpump": 1794332481.0543003,
+  "2a9cwQqKrYvVzWtHc9cy5rrk9hT9BrLdevZeJaKzpump": 1794332481.0543003,
+  "Bmy2XNoysbCCqzqX3CC7DFbHW6FhGJ36MzWD1Wgdpump": 1794332481.0543003,
+  "ETcFxpJDsACEx7TcmbuNh7ttQfxQ42UrTPK5gjXrpump": 1794332481.0543003,
+  "66KbLTkLpPBPdhkRZs8XZk7Yw1DwuV3KYHKNTvmbpump": 1794332481.0543003,
+  "9oD9pi7KfiXKGt3zq6w65HpwbCdax5KcpEZZQE5ipump": 1794332481.0543003,
+  "wSkmmtpipUSwwWG2kMWxAj6ay6WRwcxunQXU7rFpump": 1794332481.0543003,
+  "5qfTfUYWpzQuytZdzcMqUxWvqA3Qn1tRppMUbMQdpump": 1794332481.0543003,
+  "mVAi21hm1FeBgH3mXNKidKznj8bsMZMhSjNQK7Zpump": 1794332481.0543003,
+  "wbcE7iMmWN1XGEa6mtgRS3FoLgc936rMJYjeujapump": 1794332481.0543003,
+  "3JHTFr9Eiar1xQGD1urbFH8HysMnsc6LQfT5Sz9mpump": 1794332481.0543003,
+  "EZBcgdXxfWCscEMjehuFvsvYzdkG2T9z7PWi8nr9Mo46": 1794332481.0543003,
+  "37yLRsyWAVwzT91mLMrHpKrWBVMPZP793oznVQWipump": 1794332481.0543003,
+  "8Rs3taDv9693YkA3cw3K8zaSnVZZ2UnKmV6upPYLpump": 1794332481.0543003,
+  "FjiLS1HijWU7CpYNrFMC7RFZmfq1VztmrahJLHQ5pump": 1794332481.0543003,
+  "12XbVdAszAGw6rviPP1P7q3rxhpbUJUcrnZNfP8Qfunz": 1794332481.0543003,
+  "8z38aEizgpsECAk3u8HkTSG1oUicFrSH4Egjt2Mfmi1m": 1794332481.0543003,
+  "3WXWFpKjQVtPHkZ3y9hvaxXCzgFYugmoYDzGVbs3pump": 1794332481.0543003
  }
 }

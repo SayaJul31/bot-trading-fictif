@@ -4,7 +4,7 @@
   "4iJ7xEQrUvVUQH9KVStvw3FaY2PZDd7RtR4L9zx2pump": {
    "sym": "HOLD",
    "entry": 0.000246891,
-   "last": 0.000246891,
+   "last": 0.0002431,
    "peak": 0.000246891,
    "cost": 39.2452706800472,
    "t": 1794352236.335523,
@@ -13,7 +13,7 @@
   "5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump": {
    "sym": "DACITY",
    "entry": 0.0017705700000000002,
-   "last": 0.0017705700000000002,
+   "last": 0.00177,
    "peak": 0.0017705700000000002,
    "cost": 39.2452706800472,
    "t": 1794352236.335523,
@@ -109,6 +109,11 @@
   {
    "day": "2026-11-10 23:10",
    "equity": 784.91,
+   "positions": 2
+  },
+  {
+   "day": "2026-11-10 23:42",
+   "equity": 784.29,
    "positions": 2
   }
  ],
@@ -590,6 +595,9 @@
   "7dnVH3aC95d55BMr1pH29bAz4Qi4FYu3Nc6pQsEqpump": 1794352236.335523,
   "8v7jNtLZ6AYdmtVioajsh8YF3prcXWSkCZKsVevapump": 1794352236.335523,
   "BP4pP6nJnE62NA6F3NEPCi88ZiYvW9gJrDBBttN6pump": 1794352236.335523,
-  "RH1n2W6MuAJuSJaww1um4zLS4X1XSZTLPnR5X8KG7cW": 1794352236.335523
+  "RH1n2W6MuAJuSJaww1um4zLS4X1XSZTLPnR5X8KG7cW": 1794352236.335523,
+  "Ff1wNnYGDhY2Mz5DZEQuJKZafCeWRhzskye7rijmpump": 1794354156.467103,
+  "EFKrc4gWTq67fYPnXG1DjMEhfm9d9vnrmyJxPqS7CfuS": 1794354156.467103,
+  "Atyf99Ng28ggyfNBD9xxqL9urA1WPgYJ7Yqm7ZBYpump": 1794354156.467103
  }
 }

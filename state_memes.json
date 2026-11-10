@@ -4,8 +4,8 @@
   "F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump": {
    "sym": "BORLY",
    "entry": 0.00134209,
-   "last": 0.00134209,
-   "peak": 0.00134209,
+   "last": 0.00158,
+   "peak": 0.00158,
    "cost": 43.22779097843149,
    "t": 1794275171.2479002,
    "url": "https://dexscreener.com/solana/7xwnpcwt4upj2hyuff4czvmmsvvws13k1w8ip6y4o5zq"
@@ -13,7 +13,7 @@
   "BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJpump": {
    "sym": "OnlyCats",
    "entry": 0.001339,
-   "last": 0.001339,
+   "last": 0.001329,
    "peak": 0.001339,
    "cost": 43.22779097843149,
    "t": 1794275171.2479002,
@@ -79,6 +79,11 @@
   {
    "day": "2026-11-10 01:46",
    "equity": 864.56,
+   "positions": 2
+  },
+  {
+   "day": "2026-11-10 01:59",
+   "equity": 871.9,
    "positions": 2
   }
  ],
@@ -418,6 +423,14 @@
   "pmsnyjov3dexGg42YvG5nrRT6sugTFpSZLonUcypump": 1794275171.2479002,
   "HqZZhbXWm17vnY29uj4cgczNUWo9o8VLUWsN4RH8pump": 1794275171.2479002,
   "97ZFp1jBJhncH7NNoTe36u3u5vEEQ3jYyn24RaP4pump": 1794275171.2479002,
-  "CzcRXdkUxkd7HSkoD7raDR2mgcn5tCAEefixcJGnpump": 1794275171.2479002
+  "CzcRXdkUxkd7HSkoD7raDR2mgcn5tCAEefixcJGnpump": 1794275171.2479002,
+  "BTPKWGUnfVUeP5xH14o23C9VvL2AeK2BNYa8JJDXpump": 1794275961.6429586,
+  "5QLHv9382yxtsnxeKPLxjznH5aP78Lcf6XLutwYXB6Vb": 1794275961.6429586,
+  "7fsLRfbzgqPYyNNMSTasEVBf7xAqSvQR8ieXZN4afyom": 1794275961.6429586,
+  "Bva4PgvwqgGD6B9MEks4jmwdbb5ZcTjA4yfaU3HBpump": 1794275961.6429586,
+  "238ftF4VYCa8yE1CXMbJDu6GXmBhdptCwM3b8om1pump": 1794275961.6429586,
+  "6Mp6B7NRL8YoHqcPQdPjjqXbA1MrEa3Z9RgrUnTSpump": 1794275961.6429586,
+  "5UYWUTET3LfN8sx5PqmFW7548uTm3kTTABZTGpzzpump": 1794275961.6429586,
+  "4jHBFYuJgFxj6Lepue4e8guSN5Z4VmiHcArFG8ZDpump": 1794275961.6429586
  }
 }

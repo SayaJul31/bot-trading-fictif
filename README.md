@@ -1,6 +1,6 @@
 # Classement des bots (argent fictif, depart 1000 EUR chacun)
 
-Mis a jour : 10/11/2026 01:46 UTC
+Mis a jour : 10/11/2026 01:59 UTC
 
 | Rang | Bot | Capital | Perf | Trades | Ventes gagnantes | Positions |
 |---|---|---|---|---|---|---|
@@ -15,6 +15,6 @@ Mis a jour : 10/11/2026 01:46 UTC
 | 9 | Volume whales (daily) | 999.70 EUR | -0.0 % | 2 | 0/1 | aucune |
 | 10 | Copy trading Hyperliquid | 953.80 EUR | -4.6 % | 4 | 1/1 | ZRO, BTC |
 | 11 | Narratifs (hebdo) | 934.93 EUR | -6.5 % | 6 | 1/3 | aucune |
-| 12 | Memecoins Solana (Pump Fun) | 864.56 EUR | -13.5 % | 10 | 0/4 | F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxe, BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJ |
+| 12 | Memecoins Solana (Pump Fun) | 871.90 EUR | -12.8 % | 10 | 0/4 | F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxe, BAftaSb1HVqBn5723w72WLcXU7YASSgmVxQxJJAJ |
 
 Aucun argent reel. Les trades sont dans l'onglet Issues.

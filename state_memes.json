@@ -1,33 +1,24 @@
 {
- "cash": 648.5051572174339,
+ "cash": 2053.5516526182055,
  "pos": {
-  "4iJ7xEQrUvVUQH9KVStvw3FaY2PZDd7RtR4L9zx2pump": {
-   "sym": "HOLD",
-   "entry": 0.000246891,
-   "last": 0.0008503,
-   "peak": 0.000935,
-   "cost": 19.6226353400236,
-   "t": 1794352236.335523,
-   "url": "https://dexscreener.com/solana/gusid5mpw6kiexjqddggothrfv4ecgqqagywiha4ujbb",
-   "half": true
-  },
-  "5tBXkPVh716zSXHNZSr8i1PX7e6Uuj46JnBLdYchpump": {
-   "sym": "DACITY",
-   "entry": 0.0017705700000000002,
-   "last": 0.001283,
-   "peak": 0.002458,
-   "cost": 39.2452706800472,
-   "t": 1794352236.335523,
-   "url": "https://dexscreener.com/solana/89rsdzz3wncebojfruvi6omxbdytnrelfvqcvq1ophnq"
-  },
   "BLVpn8ofkjnAzpWGaVpspZ5bHTeXDbXFgX4vn3fkpump": {
    "sym": "woohao",
    "entry": 0.000209811,
-   "last": 0.0001088,
-   "peak": 0.000209811,
-   "cost": 39.7491543324739,
+   "last": 0.01698,
+   "peak": 0.01698,
+   "cost": 19.87457716623695,
    "t": 1794405783.2296975,
-   "url": "https://dexscreener.com/solana/d5ysmfk2rzjm2sw4d6zx9ge6jnnfmhphb6jpf6ndu7xl"
+   "url": "https://dexscreener.com/solana/d5ysmfk2rzjm2sw4d6zx9ge6jnnfmhphb6jpf6ndu7xl",
+   "half": true
+  },
+  "8bTJDVTG1xPuP4GsaXVKCRrbG4mRehhn5AyFy9yapump": {
+   "sym": "BERNIE",
+   "entry": 0.000142346,
+   "last": 0.000142346,
+   "peak": 0.000142346,
+   "cost": 192.7368832626511,
+   "t": 1794431750.3979282,
+   "url": "https://dexscreener.com/solana/4xlt4kt5xznjvtntovkcqzqna5en8sodvkr2aqgeh6tx"
   }
  },
  "history": [
@@ -145,6 +136,11 @@
    "day": "2026-11-11 15:35",
    "equity": 765.14,
    "positions": 3
+  },
+  {
+   "day": "2026-11-11 21:15",
+   "equity": 3854.74,
+   "positions": 2
   }
  ],
  "trades": [
@@ -287,6 +283,34 @@
    "sym": "woohao",
    "price": 0.000209811,
    "amount": 39.75
+  },
+  {
+   "day": "2026-11-11 21:15",
+   "side": "VENTE",
+   "sym": "HOLD",
+   "pnl": 0.995,
+   "why": "stop suiveur (-40 % du pic, pic x3.8)"
+  },
+  {
+   "day": "2026-11-11 21:15",
+   "side": "VENTE",
+   "sym": "DACITY",
+   "pnl": -0.9987,
+   "why": "liquidite disparue (rug probable)"
+  },
+  {
+   "day": "2026-11-11 21:15",
+   "side": "VENTE",
+   "sym": "woohao",
+   "pnl": 77.4212,
+   "why": "moitie vendue a x2"
+  },
+  {
+   "day": "2026-11-11 21:15",
+   "side": "ACHAT",
+   "sym": "BERNIE",
+   "price": 0.000142346,
+   "amount": 192.74
   }
  ],
  "seen": {
@@ -784,6 +808,52 @@
   "4EfKZKVUJAgiQBpq65gRG6Gy4AThZiphmWjDkPfKQbFj": 1794411358.72064,
   "85tvKs7xk8FUu5RapbQKNT5WQkun6nzRSfwXATsTpump": 1794411358.72064,
   "HYXMzaNeuoBRFb9rcUcopKf4L3nSJDffMNmXKtovpump": 1794411358.72064,
-  "RV5hbaLMHSmv2eNXdBb8jZwVxeDEW19ceryaz8qpump": 1794411358.72064
+  "RV5hbaLMHSmv2eNXdBb8jZwVxeDEW19ceryaz8qpump": 1794411358.72064,
+  "7fNYfFkDefatZugpcgaHqGxQuwm6JzcRYDQrdajqpump": 1794431750.3979282,
+  "4Dgjitjn8br3LcdcBnkc9tYJ8d1cnCCJd2nsVgzZpump": 1794431750.3979282,
+  "6ut8rZUw8aroJCDwAXaGpmx2gcXvriGoTgBS6p98pump": 1794431750.3979282,
+  "HErn19TzuR3HSxozwXkQ2cERdAWX2ke2nxQKairSpump": 1794431750.3979282,
+  "8bTJDVTG1xPuP4GsaXVKCRrbG4mRehhn5AyFy9yapump": 1794431750.3979282,
+  "8AXcNNGGKWaBJhdf96N1URtGz3jwCZoLhUEYgzEqpump": 1794431750.3979282,
+  "632ZCbqv28AoF9ausrd4pGMAE5ccczxAg2Ltzsy4TrWG": 1794431750.3979282,
+  "HVKNhJ5GJ2ENPgXvwgNe8kZiYejCR6iDT6nU2igbpump": 1794431750.3979282,
+  "89iRVoDVPd8tuRrMyhgPfe58eDneasPsdEVu5AUMpump": 1794431750.3979282,
+  "3YcG25TqE3LTn3LpmAoQoX8CJp8B9tpAm5fK9DJspump": 1794431750.3979282,
+  "Hu4eFmzw4jHDYfU9KhjPnJoJFKdT2c3hr8WENudspump": 1794431750.3979282,
+  "59Lj2zmoztohshrK36gcU9btWE1bgn3HNHspRAhBpump": 1794431750.3979282,
+  "3FEvMfxW3zx9V6cCnQ1UmWHKTozbxAVN2LeeTY4tpump": 1794431750.3979282,
+  "57GLjEQGAsLa22z6xCJyFGRpyL32vxdijDzxxFr9pump": 1794431750.3979282,
+  "JEGkcMuGqV2j8nwPbgALifAHzegFLVbwYMX1TbH3pump": 1794431750.3979282,
+  "6y8kxaZvaBZYCVfdQGz9E3i9tjSX7AtCyyKXnaV8pump": 1794431750.3979282,
+  "AuvN7jB3op4zgt7zNGhQvdPNHLdq6ihQ9fSsmcXspump": 1794431750.3979282,
+  "ArskTMBHEadnbemcATw4zjipyXYkLksCtju3i41qpump": 1794431750.3979282,
+  "GfwZz1cZX147poWLotst44Sj7VUGenX8M5hspbWpumps": 1794431750.3979282,
+  "9gwWShujxRbk3qMSWbtwubgi8ZYy9CPYjLtqRKqzpump": 1794431750.3979282,
+  "2fjLAZLkZtWhjLYjqXTtEuANGvpuGmejgdioLmrjpump": 1794431750.3979282,
+  "Eyo1o3QYKQwdvP6UtK9dQLTZj2BBtoJdN4tMWB2Dpump": 1794431750.3979282,
+  "37q7HETkhKc24nzbBbNM78zj4eMZXAeE9L2TMTAHqpay": 1794431750.3979282,
+  "CkhroDi5YBXb9a1s2wmQLg4K8qKSLqme5H7DYeE3pump": 1794431750.3979282,
+  "6WrFRgPTkvA1U9vGX9mdbvTsne3AteJ9azvrGweUpump": 1794431750.3979282,
+  "Z5ijNneoDubKBEhzTumUgfm18m6PjUDred4gp7Xpump": 1794431750.3979282,
+  "BoRsyzgtFw56gHqWgqb7wL45bMr9vQMF564j1Gvtcash": 1794431750.3979282,
+  "74dTmNukXtgSzbesgJNpTJoTt6cygyt8XgJVQRb8pump": 1794431750.3979282,
+  "96KRBho9BNtvQYX8dDcUtNe14RQafTGZqHtBBjUipump": 1794431750.3979282,
+  "9GgsHTYtP9b4ZtUg2yNngJLYVrtHAsYJJ16gwLmXpump": 1794431750.3979282,
+  "7gKKy2p1SaMkRFPX7caF96YpfuMMpDj82ZpjaffuvaU5": 1794431750.3979282,
+  "22rWiyDiY9GgxSrFiWC2vX1GxNxjkvrRPmZJDzv9pq6X": 1794431750.3979282,
+  "53ta1BvDf63JjXA5nW6EAhXDcMwngEE5AN5GPNbFPMRc": 1794431750.3979282,
+  "82dtJko6zzyFvDBCUxQ13tCZejSFqkfdPbhTv2Rtpump": 1794431750.3979282,
+  "J8uZpXLyrmaPawRFdu81byzRSLqnurTvhQ9nd2ZLVQvE": 1794431750.3979282,
+  "3Tkm68nyJdiB8SejbhjufSWg1Kry4yG4xhvFD6W8pump": 1794431750.3979282,
+  "octo2TrsXkN6ErP7Gz1T7Vn5fySnPgbUuT6cjovCB55": 1794431750.3979282,
+  "GgWGT8DsacNd8uBANGB8nmHn5JpcHWBXwB8rBCXipump": 1794431750.3979282,
+  "Big1krPP8QUkgg5fsfEZQmeuwAViNajzAxNhNYvXaSS1": 1794431750.3979282,
+  "BK8ZXzXsVLJzsDdy1paM8Dbcd3qAhMQWcSWq3M6Ypump": 1794431750.3979282,
+  "bn5DhJnkB8EVDoAgV9qCV3Kbv7XmEEp7mxW4npDpump": 1794431750.3979282,
+  "BTCk1ZAAGrbSq7e4L7mg8oiRKRqafkUbeLQpXeGq9BTC": 1794431750.3979282,
+  "By9hPEwuCFUnofK8t8vgx4gWSv6858Ww4dd5EQ2spump": 1794431750.3979282,
+  "32tfZ7z9fwLEv2ReyjpmMqH4MuFTpjACBCEaP8VLpump": 1794431750.3979282,
+  "Egixshu1ZCTsZdGfpCpAVKrWxJydAh98pGfa6vVSpump": 1794431750.3979282,
+  "3MTRCXmasCTTp1qrvFVE1apSfKYqnGJQ3biw7wRLfdZM": 1794431750.3979282
  }
 }

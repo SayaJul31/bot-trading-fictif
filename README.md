@@ -1,10 +1,10 @@
 # Classement des bots (argent fictif, depart 1000 EUR chacun)
 
-Mis a jour : 11/11/2026 21:15 UTC
+Mis a jour : 11/11/2026 22:15 UTC
 
 | Rang | Bot | Capital | Perf | Trades | Ventes gagnantes | Positions |
 |---|---|---|---|---|---|---|
-| 1 | Memecoins Solana (Pump Fun) | 3854.74 EUR | +285.5 % | 24 | 3/12 | BLVpn8ofkjnAzpWGaVpspZ5bHTeXDbXFgX4vn3fk, 8bTJDVTG1xPuP4GsaXVKCRrbG4mRehhn5AyFy9ya |
+| 1 | Memecoins Solana (Pump Fun) | 3766.97 EUR | +276.7 % | 24 | 3/12 | BLVpn8ofkjnAzpWGaVpspZ5bHTeXDbXFgX4vn3fk, 8bTJDVTG1xPuP4GsaXVKCRrbG4mRehhn5AyFy9ya |
 | 2 | Momentum (hebdo) | 1022.54 EUR | +2.3 % | 2 | 1/1 | aucune |
 | 3 | Zero Lag (daily) | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
 | 4 | Zero Lag 4h | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |

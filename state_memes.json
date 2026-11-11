@@ -4,7 +4,7 @@
   "BLVpn8ofkjnAzpWGaVpspZ5bHTeXDbXFgX4vn3fkpump": {
    "sym": "woohao",
    "entry": 0.000209811,
-   "last": 0.01698,
+   "last": 0.0169,
    "peak": 0.01698,
    "cost": 19.87457716623695,
    "t": 1794405783.2296975,
@@ -14,7 +14,7 @@
   "8bTJDVTG1xPuP4GsaXVKCRrbG4mRehhn5AyFy9yapump": {
    "sym": "BERNIE",
    "entry": 0.000142346,
-   "last": 0.000142346,
+   "last": 8.312e-05,
    "peak": 0.000142346,
    "cost": 192.7368832626511,
    "t": 1794431750.3979282,
@@ -140,6 +140,11 @@
   {
    "day": "2026-11-11 21:15",
    "equity": 3854.74,
+   "positions": 2
+  },
+  {
+   "day": "2026-11-11 22:15",
+   "equity": 3766.97,
    "positions": 2
   }
  ],
@@ -854,6 +859,19 @@
   "By9hPEwuCFUnofK8t8vgx4gWSv6858Ww4dd5EQ2spump": 1794431750.3979282,
   "32tfZ7z9fwLEv2ReyjpmMqH4MuFTpjACBCEaP8VLpump": 1794431750.3979282,
   "Egixshu1ZCTsZdGfpCpAVKrWxJydAh98pGfa6vVSpump": 1794431750.3979282,
-  "3MTRCXmasCTTp1qrvFVE1apSfKYqnGJQ3biw7wRLfdZM": 1794431750.3979282
+  "3MTRCXmasCTTp1qrvFVE1apSfKYqnGJQ3biw7wRLfdZM": 1794431750.3979282,
+  "5qaP7oKUqKffwwo5DaEqDoTtsBLMpdbQTxEkCDaTpump": 1794435347.0587955,
+  "FjFVmDDM3w7qVLS9uxLkXnDM4qCGsqXSow6d32phpump": 1794435347.0587955,
+  "HzwVr7KjPhUriHK9MrJbFzbTDTPwUXGrL2Ah2wVhpump": 1794435347.0587955,
+  "GsycyHWVhuKJxoXr1YtuSQXGwFoPLGd2gNP8Ns11pump": 1794435347.0587955,
+  "H3gXgvf2kza3vz3WhP3KoKdprhiu7oW6Q1ARXLy5Erhf": 1794435347.0587955,
+  "BFfrW2h5CuTMHbDmXeJL5sdKAZVQDHrShwCPf2Jrpump": 1794435347.0587955,
+  "Gsj4msPvgEdDJ6UuYwoKT6uqfMzHUWS8B3pG5QNvpump": 1794435347.0587955,
+  "4fm9PevKgig5y9oekTABQSMEHPTiT2p8V9UG9PWMpump": 1794435347.0587955,
+  "CgDpxjtoZoM2yWxN2FaRsZtfa9Tksep55AMbx56Apump": 1794435347.0587955,
+  "D3dztueGGYwCwghS4WriSwQN6TAov4cEnYYUVRUDpump": 1794435347.0587955,
+  "BetzJU2X9UEgG2qdo8UKbJ6q1iiFGs23axh8vRqEpump": 1794435347.0587955,
+  "3zXyZuZiqmWXMrtAh4Jh89RX36PadH4sv6diwAS9pump": 1794435347.0587955,
+  "GrVhtVS6jBY2pAUd6UWS6mrNF1XrP52Ad9E8bRXJpump": 1794435347.0587955
  }
 }

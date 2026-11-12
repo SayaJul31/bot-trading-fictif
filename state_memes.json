@@ -1,10 +1,10 @@
 {
- "cash": 1795.1048383838438,
+ "cash": 1585.2164673642797,
  "pos": {
   "8AAVuQpJcqpvCuutxyBTVvgBEXZJSkZoNv1sExpBpump": {
    "sym": "NOBUSHIBA",
    "entry": 0.0010403,
-   "last": 0.0008066,
+   "last": 0.000757,
    "peak": 0.001116,
    "cost": 105.45504853726567,
    "t": 1794453594.513823,
@@ -13,8 +13,8 @@
   "4FP2GRQS3WYPsZSE2dwaVzqkajrBpHcXyVSTVt83pump": {
    "sym": "Huang",
    "entry": 0.00031579800000000006,
-   "last": 0.00031579800000000006,
-   "peak": 0.00031579800000000006,
+   "last": 0.0003655,
+   "peak": 0.0003655,
    "cost": 104.27054191210182,
    "t": 1794509406.8523116,
    "url": "https://dexscreener.com/solana/fj1y3drk5z715mj8hk512ekk3rqhtahgrv6hmhnpcn2u"
@@ -22,11 +22,29 @@
   "E8qaeXz7CF2auJebXaQkLZyrFPfRQft3KrGgvRvwpump": {
    "sym": "DOGGLE",
    "entry": 0.000374199,
-   "last": 0.000374199,
-   "peak": 0.000374199,
+   "last": 0.0003817,
+   "peak": 0.0003817,
    "cost": 104.27054191210182,
    "t": 1794509406.8523116,
    "url": "https://dexscreener.com/solana/dbzwwtsvwydef8sg8yphdtkwdrl3wevh1qdtwgx9dnqx"
+  },
+  "F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump": {
+   "sym": "JENSEN",
+   "entry": 0.0005587750000000001,
+   "last": 0.0005587750000000001,
+   "peak": 0.0005587750000000001,
+   "cost": 104.94418550978207,
+   "t": 1794515058.91466,
+   "url": "https://dexscreener.com/solana/bsobfkjjqb5vge2yy8wyhe4mryg7jf2mvqbfn6mzke2j"
+  },
+  "5u6Bpbz5kJiYgR3dtRQsdKvUKNmJN2pxGojdsYMDpump": {
+   "sym": "1JENSEN",
+   "entry": 0.00021877200000000003,
+   "last": 0.00021877200000000003,
+   "peak": 0.00021877200000000003,
+   "cost": 104.94418550978207,
+   "t": 1794515058.91466,
+   "url": "https://dexscreener.com/solana/feq7hqtbqkeh6dedadga6jrajqfxb7pypl7b3gzqzpz6"
   }
  },
  "history": [
@@ -179,6 +197,11 @@
    "day": "2026-11-12 18:50",
    "equity": 2085.41,
    "positions": 3
+  },
+  {
+   "day": "2026-11-12 20:24",
+   "equity": 2098.88,
+   "positions": 5
   }
  ],
  "trades": [
@@ -384,6 +407,20 @@
    "sym": "DOGGLE",
    "price": 0.000374199,
    "amount": 104.27
+  },
+  {
+   "day": "2026-11-12 20:24",
+   "side": "ACHAT",
+   "sym": "JENSEN",
+   "price": 0.0005587750000000001,
+   "amount": 104.94
+  },
+  {
+   "day": "2026-11-12 20:24",
+   "side": "ACHAT",
+   "sym": "1JENSEN",
+   "price": 0.00021877200000000003,
+   "amount": 104.94
   }
  ],
  "seen": {
@@ -1063,6 +1100,32 @@
   "9L9XBcrRaMWLb18T837fB1JP73MCD7ANdRrdkdSqpump": 1794509406.8523116,
   "13Cb7SGfxqrtMDU1JNANyTnTmQtbmH55QWXXzdwBmoon": 1794509406.8523116,
   "HrvF3KLc2Q5P6pHbsJBNn6pPoUvb3jGBBKzVkSripump": 1794509406.8523116,
-  "4BmPe8LGK72S1yULdD5HG7aUYHHi8okboS2Nkufrpump": 1794509406.8523116
+  "4BmPe8LGK72S1yULdD5HG7aUYHHi8okboS2Nkufrpump": 1794509406.8523116,
+  "F3fEfTxGhAfhkbAaxtiErdcDEMZdTrqssXbfMVKbpump": 1794515058.91466,
+  "6DrxESz1eu5Ak4HnNYtRTCDZ5KzpkoxXS4GLyLLS5hMR": 1794515058.91466,
+  "5u6Bpbz5kJiYgR3dtRQsdKvUKNmJN2pxGojdsYMDpump": 1794515058.91466,
+  "E19KsBsmkqWFL1k7byEF2rxrYn2Rn3bs8EVHKCF2pump": 1794515058.91466,
+  "GeK4M94zkqwEjp4Yv4MAVVBuRR3ubnM8TAivJXfbpump": 1794515058.91466,
+  "9mMa6VoLwBZYXa3RS2XtyMKNHer5z9nyWhyBGWV1pump": 1794515058.91466,
+  "FMK5RyfhwcPaRUYaRQ5jAG3VNiVyYR5iq57TBhnPpump": 1794515058.91466,
+  "6Sz8C5M5r2px3zptK3wxrHc2dfatse6i1ByDVqBkpump": 1794515058.91466,
+  "EBreGKiKWYuaY54KsDJGKCTNuT2tSnYuU7MDPrDupump": 1794515058.91466,
+  "FiobQJe9nAnEGvWxVpY2nWovpGgQrxTFWi7fjep8FjLJ": 1794515058.91466,
+  "BswEqVsp76gfCrA9fG4sA1KGeCYBwBo8iZGJh6e4pump": 1794515058.91466,
+  "9MMWavzD6HCHFoFocG7twijoWJiEMZEhey8MTTZapump": 1794515058.91466,
+  "88goaxvXBiSPVQEj47ZAEMDLycKt679dre6cCZWNpump": 1794515058.91466,
+  "a4KUGBeSzz7D8zqC6g1rgsoB8idmpgwrVwR3eNZpump": 1794515058.91466,
+  "DiCKhrU3jpUXk1UvxtPGTCZTx91Pfy1H4UALXY8diLdo": 1794515058.91466,
+  "4tcT2ycpMTVxZMcjSfHY2xQn6AJQpjkW5w5EyQPXpump": 1794515058.91466,
+  "GnY6RSduqXgJ3nas2CKTDkNbrm2FXYExFxP7BXYEpump": 1794515058.91466,
+  "Et8qxo1aJYQinvxWvoqHH4Hj75MaxCHbTYTzMRUFjZKf": 1794515058.91466,
+  "9MNd7YeJdKiEsHhwj9uVLw54ZqyJEz5rcP7TprX3RVqJ": 1794515058.91466,
+  "9hXYbXLGcMvvqdDNYdbaJ2mTRw8einN8KyEDmgDjpump": 1794515058.91466,
+  "GH37DfLYgT9wPNzzE1TSvBKH4cCRndJwT1M2pRrPpump": 1794515058.91466,
+  "HqE31X3y7BAZNEZev8RBMkhTgj2RMR4bffZsZeampump": 1794515058.91466,
+  "CmPE3yKAsAENfB5YcJNQN1NEWGbgbimMazm9yeitpump": 1794515058.91466,
+  "6fCpzJrFQzx3p6jncbAcuR9RiDqdFGe1vGnk3GBipump": 1794515058.91466,
+  "J2KQsjqHx2nSidUTaNMpXfn2uY9fBaGMBJBmFwnzpump": 1794515058.91466,
+  "Exb7HouDVp7qbNArw1mrLtoN73fXJ6RTkrQYfUbgpump": 1794515058.91466
  }
 }

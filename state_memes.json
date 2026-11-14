@@ -4,7 +4,7 @@
   "HWya5CpQiQWLnJfJVRDF9o8AHaUPnPMRa3vfQRczpump": {
    "sym": "AMC",
    "entry": 0.0046247,
-   "last": 0.002463,
+   "last": 0.002873,
    "peak": 0.004698,
    "cost": 85.93052050851932,
    "t": 1794606949.1760645,
@@ -13,8 +13,8 @@
   "5ZDiuBxCLuAjjxSKiBdumQJ36P7Jd9mh5HFLY94Ppump": {
    "sym": "Chunkee",
    "entry": 0.000185812,
-   "last": 0.000645,
-   "peak": 0.000645,
+   "last": 0.0006799,
+   "peak": 0.0006799,
    "cost": 40.92286109052256,
    "t": 1794622462.5025575,
    "url": "https://dexscreener.com/solana/31o4hw3nlkd7u4s3n46gls5hkex3kewydw1ys6getus9",
@@ -249,6 +249,11 @@
   {
    "day": "2026-11-14 16:35",
    "equity": 1765.8,
+   "positions": 3
+  },
+  {
+   "day": "2026-11-14 17:17",
+   "equity": 1781.1,
    "positions": 3
   }
  ],
@@ -1643,6 +1648,24 @@
   "HEDuqMZYBdQztyF1sj1gHz6BEFWRKVdBD87AdBfgpump": 1794674100.1729403,
   "8t9iCHpYottttogVssUpYAgwi3zXqvssiadrYKc3pump": 1794674100.1729403,
   "DaSQWTWPBJUiF7PWc6Ucu9AqseSWmTVN5xfmRZxXpump": 1794674100.1729403,
-  "ChjHoRfhrzZzW5yLm2h61hPx2AeSZ3XCG8dvYRVpump": 1794674100.1729403
+  "ChjHoRfhrzZzW5yLm2h61hPx2AeSZ3XCG8dvYRVpump": 1794674100.1729403,
+  "DHTdHT78Jq3Scy8bPCU3Gi7uWhuJvnRKYQnYsfZtpump": 1794676648.60648,
+  "DSKM3d518BBaQShSKqaqZcG1XMRf81UFB6a1eavhSTNK": 1794676648.60648,
+  "bawsYvWmV9FepncqVw3nYVyMAYWD8EqKMfjuFz494r6": 1794676648.60648,
+  "HUPbsJ4UWpe1kwopFXwWVx5kNQKmooaEmB5jSMKrpump": 1794676648.60648,
+  "8yHPExxnmrXsbqSvmouMD5u829HuMgkTjpcvb4BUvWqb": 1794676648.60648,
+  "Bqi6MPNQYR1DchXBkxZT2RD3uY7DauXwFwtjB3Zbpump": 1794676648.60648,
+  "6bYMEsNWWtioQtBqEDqdvnxnHNTNcxdnftsVHhxUTYfj": 1794676648.60648,
+  "HDLCFjQ65QjupYFqUatHx4ynUUrpQNWaHKksfncgpump": 1794676648.60648,
+  "D5L167pKGFeF7oqRE9nas7QxzzPr47D34aNPRppspump": 1794676648.60648,
+  "8QYvskUhq7VaZX2PwJaMKT2Lua1Kr9w4yva2fi1Bpump": 1794676648.60648,
+  "B4WPuPsstu7pBmqQUc1cvfwccWUYTnLoWizUXbpQpump": 1794676648.60648,
+  "GZSkjudwNnk4HMU6cV6W3ga51AJhgcVTZxLbosAZpump": 1794676648.60648,
+  "9KWDWLWPvu6HjfmLixjKHUf8rj4HbBCMrXA5pCSEpump": 1794676648.60648,
+  "AEwrP5A6g3cfT1mA2M6jsE7dmL2SVCmQZS953ZbTpump": 1794676648.60648,
+  "TnBL51i3sXn8j6siqGxGoosY3ThdrpRDf9YMAVqpump": 1794676648.60648,
+  "3xh3ENrm66Pf5cy8bFC161TG6bv4PqrMCLaXsJj5pump": 1794676648.60648,
+  "9pxmPqfX9yTDERmugChATftKDrrguaNG4gfPL2vrpump": 1794676648.60648,
+  "9oa27JU5cZWYUmC1g2EtZf1vftkQTWDwKDR1FGBMpump": 1794676648.60648
  }
 }

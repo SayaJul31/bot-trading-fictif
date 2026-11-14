@@ -1,32 +1,32 @@
 {
- "cash": 1445.771026704912,
+ "cash": 1370.2995559249675,
  "pos": {
   "ttwocSxKgj4NpQEUzBaFzLxEFzVdLytUbLsnnjGew9v": {
    "sym": "SHARKBUX",
    "entry": 0.0004994470000000001,
-   "last": 0.0005493,
+   "last": 0.000556,
    "peak": 0.0006338,
    "cost": 87.56192880673547,
    "t": 1794533265.4559698,
    "url": "https://dexscreener.com/solana/gcapljm8avitumexsypcvmgk6rer9kg7gun4l9ykp394"
   },
-  "4cPQ6skqbj4qLGddcaJDxZSHoyB94sA3kfNKCptepump": {
-   "sym": "Speed",
-   "entry": 0.000288709,
-   "last": 0.0003388,
-   "peak": 0.0003388,
-   "cost": 84.74691094433413,
-   "t": 1794583123.0691116,
-   "url": "https://dexscreener.com/solana/3npsvtfvxnbecqhbpjztjesk7wng3a7fcvp3jcv43dop"
-  },
   "HWya5CpQiQWLnJfJVRDF9o8AHaUPnPMRa3vfQRczpump": {
    "sym": "AMC",
    "entry": 0.0046247,
-   "last": 0.004268,
-   "peak": 0.0046247,
+   "last": 0.004698,
+   "peak": 0.004698,
    "cost": 85.93052050851932,
    "t": 1794606949.1760645,
    "url": "https://dexscreener.com/solana/dxbqyptjckqtsuwyuqjb11hpuppylgjz5x4z7ufhp3gh"
+  },
+  "5ZDiuBxCLuAjjxSKiBdumQJ36P7Jd9mh5HFLY94Ppump": {
+   "sym": "Chunkee",
+   "entry": 0.000185812,
+   "last": 0.000185812,
+   "peak": 0.000185812,
+   "cost": 81.84572218104512,
+   "t": 1794622462.5025575,
+   "url": "https://dexscreener.com/solana/31o4hw3nlkd7u4s3n46gls5hkex3kewydw1ys6getus9"
   }
  },
  "history": [
@@ -223,6 +223,11 @@
   {
    "day": "2026-11-13 22:50",
    "equity": 1720.83,
+   "positions": 3
+  },
+  {
+   "day": "2026-11-14 02:14",
+   "equity": 1636.91,
    "positions": 3
   }
  ],
@@ -499,6 +504,20 @@
    "sym": "AMC",
    "price": 0.0046247,
    "amount": 85.93
+  },
+  {
+   "day": "2026-11-14 02:14",
+   "side": "VENTE",
+   "sym": "Speed",
+   "pnl": -0.9248,
+   "why": "stop -50 %"
+  },
+  {
+   "day": "2026-11-14 02:14",
+   "side": "ACHAT",
+   "sym": "Chunkee",
+   "price": 0.000185812,
+   "amount": 81.85
   }
  ],
  "seen": {
@@ -1458,6 +1477,31 @@
   "DaL9WdYDa7pLf1eSHuGGwHtKWDpStUFpBpjudT9Hpump": 1794610237.5377617,
   "DnyM8ojRndhqLcptmELJj644N91gEDE6L2aFAfJ1ngEM": 1794610237.5377617,
   "4EuKVLszWuhVkfzX2AD1UkAsDXxjsgvqraT2y9ifpump": 1794610237.5377617,
-  "DoxBUm4K1yfBdyX4JSBKmgNxZ4e8dFqtZHebGNZFwFNc": 1794610237.5377617
+  "DoxBUm4K1yfBdyX4JSBKmgNxZ4e8dFqtZHebGNZFwFNc": 1794610237.5377617,
+  "B2YpP21vQBESJ2jtnuhPujEUT61KVRxZ2X5gsDcUpump": 1794622462.5025575,
+  "5ZDiuBxCLuAjjxSKiBdumQJ36P7Jd9mh5HFLY94Ppump": 1794622462.5025575,
+  "9T9JyZtJQjYNfSYvhMB4uXkPJLUv6MTfVRBNRq5Spump": 1794622462.5025575,
+  "4PxYxGrMpfzFkb9ubTNoXC5dXnT4F8AJPRgrw5eNpump": 1794622462.5025575,
+  "7S5t7eZqrfef2dGjTLBGDDYE57Secf1rJS7fM3Vzpump": 1794622462.5025575,
+  "Cp3iq6yuX4iSRXP3d5jxMvW6RZ86vZT9Uha5UmVCpump": 1794622462.5025575,
+  "Erzs5FwufhBSKeT61tspjD8KnMBQgzygQxkAZrKu2x6i": 1794622462.5025575,
+  "HGZ2C2Vc47zqmDpiPJu5sbRJRH87P9pUoDQzhPMTpump": 1794622462.5025575,
+  "5dAoziszcMe9GUhtTf4sSaD2z39CYsUENVGDyk22pump": 1794622462.5025575,
+  "2WQTT7sSGtA9sGS7zV1qhSfXjSJRYZKccc5LHxq2FcJX": 1794622462.5025575,
+  "HJWMayjf5H6EzuNTbpk4uq9Dfp4P5CLnjZCpZvKHpump": 1794622462.5025575,
+  "FuURNNJKHYwENbbiJ7ENLhgogPGh87w9ggrArgDtSCH": 1794622462.5025575,
+  "E9CXuEFQKrmFJ7ZxyiqwFM5DZFqacDnRRspUUDhgpump": 1794622462.5025575,
+  "NV2RYH954cTJ3ckFUpvfqaQXU4ARqqDH3562nFSpump": 1794622462.5025575,
+  "J4MsEuqfAnCFAE1E7zfN1MrK7X1msFHtGFTySXi2pump": 1794622462.5025575,
+  "DfrZzdRqYeZsA7XQpzCzaNLYSmRi2p9EjtMbXdrSnoi9": 1794622462.5025575,
+  "HTp4PKiZ6wwusNKDdDqJYhoP58bMDneME2E9z8cJpump": 1794622462.5025575,
+  "Gc5xVFakyykCrMw1RyFUPqgTWBZf5YyHsSubxnNpump": 1794622462.5025575,
+  "55A3VxMBfzw6uSe64zms5iMPw9k6kx9WzzusbCU6pump": 1794622462.5025575,
+  "4Z5ws6ZijX9vhjUoJZPjszbrwUWcawA18pPzTk2mpump": 1794622462.5025575,
+  "5aQyiToSxCb6wi99zrvVBM4MUB96t2Rxr7ZAcGvKpump": 1794622462.5025575,
+  "5dnrZPYhBnMt31zzapPk21hL8PRtbfMn1a8pPHospump": 1794622462.5025575,
+  "7W7GEwDT2DXanwd5tFQzUzY5SGsE5VeXzK6Q8vT4dXqL": 1794622462.5025575,
+  "A6HPUEjxUZVdxqqLyVzakBbVq5kvLHm52Ct7RJZgpump": 1794622462.5025575,
+  "HEfH9FaC2q5uMmqVLWqcqxjTUdoSZohJx5uhKHPHpump": 1794622462.5025575
  }
 }

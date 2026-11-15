@@ -4,7 +4,7 @@
   "4B1mCGeSjTadzH7okALwdFm8taxoHbZBFCTA1nZRpump": {
    "sym": "WOHAIHAO",
    "entry": 0.000452273,
-   "last": 0.00118,
+   "last": 0.00109,
    "peak": 0.00118,
    "cost": 41.56204282027275,
    "t": 1794627134.5107405,
@@ -251,6 +251,11 @@
   {
    "day": "2026-11-15 01:45",
    "equity": 1704.77,
+   "positions": 1
+  },
+  {
+   "day": "2026-11-15 02:06",
+   "equity": 1696.5,
    "positions": 1
   }
  ],
@@ -1777,6 +1782,13 @@
   "899A56bgYXjuRYrWh91eVCnx8Vx4USfwVde3FsG5pump": 1794707126.7348773,
   "5xNwVHxrfEBSGXgxUXzeYrF9ftpHdZSWw3JytogVpump": 1794707126.7348773,
   "FcCGQz8GPMLVing6wAXuh2v8rD6tjXBBpjNn4CXpump": 1794707126.7348773,
-  "8QpHey1zSnmC6ckg96LfefEAWHg7Bu7AZdPoPf5Lpump": 1794707126.7348773
+  "8QpHey1zSnmC6ckg96LfefEAWHg7Bu7AZdPoPf5Lpump": 1794707126.7348773,
+  "CiMyaPC9icicJxkFqvqpgL2YT2FjEQmGx1YVdG78pump": 1794708392.0940003,
+  "GWfkt89PP92cA1eg4NMRE2FqftZPwLgFyY2YRNLwpump": 1794708392.0940003,
+  "A9QkSfaZHR4V51ETxE1NACaGNQom2FtE45bAGBP2pump": 1794708392.0940003,
+  "8p11yHxwiKtcFy1QZ68iec2xcFzpXJeMExXLFz8Hpump": 1794708392.0940003,
+  "AiQUqe4zjiDssth2FsCoeQVaGtCtHYyKGX8U52rWpump": 1794708392.0940003,
+  "9qbQuJQtMQpLD2HZQebGcn9uRLRzfSyCf7pdvHLwpump": 1794708392.0940003,
+  "6ecJQjkVhQUGd6dZxxx143g4jRbJ7LyBfyLpFEtppump": 1794708392.0940003
  }
 }

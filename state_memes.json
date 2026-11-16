@@ -4,8 +4,8 @@
   "C5X8tVbt8cGw7iaaEuAVGTxFVZ4uSjscmiUbVpVwpump": {
    "sym": "CYBERDACITY",
    "entry": 0.000221862,
-   "last": 0.0002251,
-   "peak": 0.0002418,
+   "last": 0.0002636,
+   "peak": 0.0002636,
    "cost": 85.62888133981133,
    "t": 1794793835.7153275,
    "url": "https://dexscreener.com/solana/9iqd6n93rwevk8kmwww2fpbonsvfpkghvdgpchvzsgxk"
@@ -13,7 +13,7 @@
   "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump": {
    "sym": "Anthropig",
    "entry": 0.00123703,
-   "last": 0.0007877,
+   "last": 0.0006809,
    "peak": 0.00123703,
    "cost": 85.62888133981133,
    "t": 1794793835.7153275,
@@ -319,6 +319,11 @@
   {
    "day": "2026-11-16 10:33",
    "equity": 1517.94,
+   "positions": 2
+  },
+  {
+   "day": "2026-11-16 11:17",
+   "equity": 1525.41,
    "positions": 2
   }
  ],
@@ -1943,6 +1948,28 @@
   "8MnxBywedNQhEibMEe3gYYeZ9EoA1apAXnYoaXWapump": 1794823751.12533,
   "tiJjUbGEMfnkyBiYCLfQwvNYAUfiagnY6mQYJMWpump": 1794825208.0120583,
   "3CacZc651RHTRk9weLRhoPCqADoqqEfgHTsyemRiFHzH": 1794825208.0120583,
-  "AmNwWSYWuR6Wn8qvNHBVwFh5C7aktcBw91wVjz1qpump": 1794825208.0120583
+  "AmNwWSYWuR6Wn8qvNHBVwFh5C7aktcBw91wVjz1qpump": 1794825208.0120583,
+  "42t61wPi41TwWtpqBVgZN1V4hjiKwZBKwq27xME9pump": 1794827872.6851692,
+  "G569daWj4hBCMJDXg26YgfiDij3wBkBfXswPwRMFpump": 1794827872.6851692,
+  "Got25oeW6J2dNy7G5KzCp2JwKeZLg76kU5sz6AS6pump": 1794827872.6851692,
+  "EnrLgY3pVYGDUjpeK53SZjQZibtUPdTcR89zKLdKypay": 1794827872.6851692,
+  "3hjVx3FXziXQqw4aJDgabgzThdccJMaaZEaAkDsVpump": 1794827872.6851692,
+  "6doZXcywhwpfAva7xQvfS3n1xhM9GGctNfS562W2pump": 1794827872.6851692,
+  "AJKWMuFami4Psh2MoKqGnQtWnBZD1yAHh6YQYVYapump": 1794827872.6851692,
+  "HvNDQvuuJ1u11nwB1aZNqJWUfYbZuteBfq3FAYzDpump": 1794827872.6851692,
+  "FCGEpyYd9izX4PhTxJvXZWnAvv4r8hKpUfSdrzAApump": 1794827872.6851692,
+  "4kafSsyPvwkQLp1MmREx7mmBB4AXhXR7dCzDxMpfpump": 1794827872.6851692,
+  "34zPXdNW3ufFbuA61bmyAHsZKiwSF3erfYfptjhhpump": 1794827872.6851692,
+  "H4kkhCzrfpAQQAZYDKpTrheqVwjmkrLxo87BVTZMpump": 1794827872.6851692,
+  "49Wmtjrc8wtuVpJtBGpcSAhLhkNHNK3htqBrSgqxpump": 1794827872.6851692,
+  "AyV3EJ55JZgz8fzVXFTzLZKQPBgSfFRanZVxzpXrpump": 1794827872.6851692,
+  "2kaTu2uY8tV37ttFDbJjYwj7HH5TpJPg6PZQGp3rpump": 1794827872.6851692,
+  "9DhaaG5fqT9AQkCyWJUpEGc5xAUWEtzxEcdNgyFgpump": 1794827872.6851692,
+  "Dbtr2wNY5fZDi1iJ9FP7JQb4bpQGdhpsKxH8MdBQpump": 1794827872.6851692,
+  "ADTHKcVFoyVMwpJUpGYYfq7UTLrSnu6wfevSuY8dpump": 1794827872.6851692,
+  "9EFFod59X9AGctc8xbpX1nghsr5u34EKetuBXs8ipump": 1794827872.6851692,
+  "GDHiqqsG81GNSzy5t2supbegJctHgzh6qaoMUu4Epump": 1794827872.6851692,
+  "AGfSw3Phu2HV6dH6RECin2o81z14u1WbAoeeEyY8pump": 1794827872.6851692,
+  "BnCtqkn1PHBDSUWetLAFi4pQeMg9SP3ZL1fJuTpdpump": 1794827872.6851692
  }
 }

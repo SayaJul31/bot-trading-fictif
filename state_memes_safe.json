@@ -4,8 +4,8 @@
   "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump": {
    "sym": "GTA",
    "entry": 0.000716571,
-   "last": 0.000716571,
-   "peak": 0.000716571,
+   "last": 0.0007715,
+   "peak": 0.0007715,
    "cost": 50.0,
    "t": 1794860244.8843138,
    "url": "https://dexscreener.com/solana/7ticdhje5yhwgras8v1exxxvajy9etbzvq97nfgqdhyt"
@@ -15,6 +15,12 @@
   {
    "day": "2026-11-16 20:17",
    "equity": 1000.0,
+   "reserve": 0.0,
+   "positions": 1
+  },
+  {
+   "day": "2026-11-16 20:40",
+   "equity": 1003.83,
    "reserve": 0.0,
    "positions": 1
   }
@@ -71,8 +77,17 @@
   "HmSMUXGrXT3FsSyaNb2RZUPSfMzLo7WMW1iNoLRTpump": 1794860244.8843138,
   "29GHgSBjQgjL3j48jVf3p1NA22wCvKx9VD6hNYzypump": 1794860244.8843138,
   "2c3mwVHXpC4Mi2L2FgEinjk44W5jCGdyCHYDumAipump": 1794860244.8843138,
-  "JBR2Avtr2doP8heWqXEUkHy9y5FYrq9XWZCyKVC2pump": 1794860244.8843138
+  "JBR2Avtr2doP8heWqXEUkHy9y5FYrq9XWZCyKVC2pump": 1794860244.8843138,
+  "D9EcoQZeAytCrF1kQFSpRNpoPhibJUvJcmRHXhubpump": 1794861637.2457683,
+  "BXiRfh6f6YuopudCBy1mxNrUpmo65iqL2SjhZvknpump": 1794861637.2457683,
+  "3Ag5XsdWbPZrrcdfcsQqfHPv2syhZWpNx8CDaDcWpump": 1794861637.2457683,
+  "71djmB9Fnxxg9VHwt7cWPLfMytz81TCPnR1hppAbpump": 1794861637.2457683,
+  "BS21cGFz9dYgwD4N4J3ejFbtevmx2ZKGQDxrZKqwpump": 1794861637.2457683,
+  "7QEmyQsLBULrN5692LkrnYFn9TLDGQr3nsaW119Rpump": 1794861637.2457683,
+  "4hMJnZ7u65V4V3AyTBAShwTGn3J5NYsy5SjLVShspump": 1794861637.2457683,
+  "FVugTPW5CG2gvGthnaeDhJyBdwdQqcuzgFEFEAfhpump": 1794861637.2457683,
+  "C5tEumuqaDk8V3NGAoEoUBZRWeaBTZ8yiCd2ZaZpump": 1794861637.2457683
  },
  "reserve": 0.0,
- "peak_eq": 1000.0
+ "peak_eq": 1003.8327674438402
 }

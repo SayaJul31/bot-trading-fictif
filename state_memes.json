@@ -4,8 +4,8 @@
   "4B1mCGeSjTadzH7okALwdFm8taxoHbZBFCTA1nZRpump": {
    "sym": "WOHAIHAO",
    "entry": 0.000452273,
-   "last": 0.001265,
-   "peak": 0.001319,
+   "last": 0.001596,
+   "peak": 0.001596,
    "cost": 41.56204282027275,
    "t": 1794627134.5107405,
    "url": "https://dexscreener.com/solana/9xvu6bt8nvkceejkx15cu6f5t8szwxyl1x13y6glhqe8",
@@ -14,8 +14,8 @@
   "2YxbK7V6ZTKSxcavk3V4kFzdtZ4uywhhoyuSxapjpump": {
    "sym": "FiveM",
    "entry": 0.00039407799999999996,
-   "last": 0.00039407799999999996,
-   "peak": 0.00039407799999999996,
+   "last": 0.0004028,
+   "peak": 0.0004028,
    "cost": 85.62888133981133,
    "t": 1794793835.7153275,
    "url": "https://dexscreener.com/solana/6nwmqsghwtrfxw9xqqm3hseykzwrqq2gzamosbjkqs32"
@@ -23,8 +23,8 @@
   "C5X8tVbt8cGw7iaaEuAVGTxFVZ4uSjscmiUbVpVwpump": {
    "sym": "CYBERDACITY",
    "entry": 0.000221862,
-   "last": 0.000221862,
-   "peak": 0.000221862,
+   "last": 0.0002418,
+   "peak": 0.0002418,
    "cost": 85.62888133981133,
    "t": 1794793835.7153275,
    "url": "https://dexscreener.com/solana/9iqd6n93rwevk8kmwww2fpbonsvfpkghvdgpchvzsgxk"
@@ -32,7 +32,7 @@
   "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump": {
    "sym": "Anthropig",
    "entry": 0.00123703,
-   "last": 0.00123703,
+   "last": 0.001037,
    "peak": 0.00123703,
    "cost": 85.62888133981133,
    "t": 1794793835.7153275,
@@ -318,6 +318,11 @@
   {
    "day": "2026-11-16 01:50",
    "equity": 1712.58,
+   "positions": 4
+  },
+  {
+   "day": "2026-11-16 02:23",
+   "equity": 1738.74,
    "positions": 4
   }
  ],
@@ -1919,6 +1924,15 @@
   "Gc2dpi8Hb3rQWnjTAM6UJgjsMNDSVGExnW5EDir7pump": 1794793835.7153275,
   "58V8ZHJH2vE855rEyu8TVLzb8UBPpyUj1JdcsMpVpump": 1794793835.7153275,
   "7NzyxBiSfhse7hFQta72JRiffPjVACxAnDXkX35qpump": 1794793835.7153275,
-  "3hfeQMTkBFPB7YGNrb6QoipbcS384bSs6LbJxzABpump": 1794793835.7153275
+  "3hfeQMTkBFPB7YGNrb6QoipbcS384bSs6LbJxzABpump": 1794793835.7153275,
+  "CssTcKvuBx2RmGE8wghpAYfwY7xZ6k5BojSm5DEopump": 1794795800.831426,
+  "Fww6zaNKcjpJaB33JayvUzsofBUobX5JaHiuQBN1Jf9g": 1794795800.831426,
+  "8gkFC2d4C8a2zpuSpHbKRUzYJ8Pk7Z2EwLyGkwoupump": 1794795800.831426,
+  "8t5yPfGqNNZsNfv4cBeuuybpr9ETtcncyQDPKuh6pump": 1794795800.831426,
+  "Ahc52P7m5n9tsEy2u52AUZiUCjTiZ6vMymbuDWjDHpay": 1794795800.831426,
+  "5jKpVabPGPFwhp1fm1ipRMuw4LBSE3YrJXA82kRKpump": 1794795800.831426,
+  "A7Ps38P3qwScjNkiVyPxA8twY2wARcPjEpHg3SEsTYvZ": 1794795800.831426,
+  "bdFChfD9wAM61C9iCDHkQ6eXyZqeLATjRCdXyJipump": 1794795800.831426,
+  "64A7zQ2QNBTSWDFKGGRWeyjZ5YiqerpPJYW3GJrVpump": 1794795800.831426
  }
 }

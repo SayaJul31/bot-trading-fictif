@@ -1,8 +1,10 @@
 
 from common import *
 st=load("narratifs"); px=prices()
-if dt.date.today().weekday()!=0 and st["history"]:
-    rebalance("narratifs","NARRATIFS",st,list(st["pos"]),px,stop=0.15); raise SystemExit
+import time as _t
+if _t.time()-st.get("last_run",0)<3.5*3600:
+    print("trop tot (4h)"); raise SystemExit
+st["last_run"]=_t.time()
 CG="https://api.coingecko.com/api/v3"
 CATS=["artificial-intelligence","decentralized-finance-defi","meme-token","layer-1","layer-2","real-world-assets-rwa","gaming","decentralized-exchange","liquid-staking-tokens","depin"]
 import time; score={}; coins={}
@@ -17,7 +19,6 @@ for c in CATS:
     time.sleep(3)
 targets=[]
 for c in sorted(score,key=score.get,reverse=True)[:2]:
-    if score[c]<=0: continue
     targets+=[s for s in coins[c] if s in px and s not in targets][:3]
 print("secteurs",sorted(score.items(),key=lambda x:-x[1])[:3])
 rebalance("narratifs","NARRATIFS",st,targets,px,stop=0.15)

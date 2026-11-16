@@ -1,7 +1,5 @@
 name: bot-quotidien
 on:
-  schedule:
-    - cron: "5 1 * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -17,13 +15,7 @@ jobs:
           python-version: "3.11"
       - run: pip install pandas numpy requests
       - run: |
-          python bot.py || true
-          python bot_momentum.py || true
-          python bot_narratifs.py || true
-          python bot_copy.py || true
-          python bot_volume.py || true
-          python bot_indic.py cassure || true
-          python bot_indic.py trois || true
+          echo "bots deplaces dans hf.yml"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |

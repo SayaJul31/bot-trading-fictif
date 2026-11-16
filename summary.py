@@ -1,6 +1,6 @@
 
 import json, glob, os, datetime as dt
-names={"state.json":"Zero Lag (daily)","state_momentum.json":"Momentum (hebdo)","state_narratifs.json":"Narratifs (hebdo)","state_copy.json":"Copy trading Hyperliquid","state_volume.json":"Volume whales (daily)","state_zl4h.json":"Zero Lag 4h","state_zl1h.json":"Zero Lag 1h","state_cassure.json":"Cassure de zone (daily)","state_trois.json":"3 indicateurs (daily)","state_memes.json":"Memecoins Solana (Pump Fun)","state_vol4h.json":"Volume 4h (achat des chutes)"}
+names={"state.json":"Zero Lag (4h)","state_momentum.json":"Momentum (4h)","state_narratifs.json":"Narratifs (4h)","state_copy.json":"Copy trading Hyperliquid (4h)","state_volume.json":"Volume whales (4h)","state_zl4h.json":"Zero Lag 4h bis","state_zl1h.json":"Zero Lag 1h","state_cassure.json":"Cassure de zone (4h)","state_trois.json":"3 indicateurs (4h)","state_memes.json":"Memecoins Solana (Pump Fun)","state_vol4h.json":"Volume 4h (achat des chutes)"}
 rows=[]
 for f,n in names.items():
     if not os.path.exists(f): rows.append((n,1000.0,0,0,0,"pas encore lance")); continue

@@ -1,6 +1,10 @@
 
 from common import *
 st=load("copy"); px=prices()
+import time as _t
+if _t.time()-st.get("last_run",0)<3.5*3600:
+    print("trop tot (4h)"); raise SystemExit
+st["last_run"]=_t.time()
 HL="https://api.hyperliquid.xyz/info"
 lb=requests.get("https://stats-data.hyperliquid.xyz/Mainnet/leaderboard",timeout=60).json()["leaderboardRows"]
 def perf(r,w):

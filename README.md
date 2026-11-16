@@ -1,6 +1,6 @@
 # Classement des bots (argent fictif, depart 1000 EUR chacun)
 
-Mis a jour : 16/11/2026 02:23 UTC
+Mis a jour : 16/11/2026 07:58 UTC
 
 | Rang | Bot | Capital | Perf | Trades | Ventes gagnantes | Positions |
 |---|---|---|---|---|---|---|
@@ -14,7 +14,7 @@ Mis a jour : 16/11/2026 02:23 UTC
 | 8 | EQUIPE 2 (Zero Lag + Cassure) | 1000.00 EUR | +0.0 % | 0 | 0/0 | capital partage entre 2 bots |
 | 9 | EQUIPE 3 (Zero Lag + Cassure + Volume) | 999.90 EUR | -0.0 % | 0 | 0/0 | capital partage entre 3 bots |
 | 10 | Volume whales (daily) | 999.70 EUR | -0.0 % | 2 | 0/1 | aucune |
-| 11 | Narratifs (hebdo) | 934.93 EUR | -6.5 % | 6 | 1/3 | aucune |
-| 12 | Copy trading Hyperliquid | 868.82 EUR | -13.1 % | 15 | 1/7 | WLD |
+| 11 | Narratifs (hebdo) | 934.00 EUR | -6.6 % | 9 | 1/3 | NEAR, TAO, FET |
+| 12 | Copy trading Hyperliquid | 892.80 EUR | -10.7 % | 16 | 2/8 | aucune |
 
 Aucun argent reel. Les trades sont dans l'onglet Issues.

@@ -4,7 +4,7 @@
   "C5X8tVbt8cGw7iaaEuAVGTxFVZ4uSjscmiUbVpVwpump": {
    "sym": "CYBERDACITY",
    "entry": 0.000221862,
-   "last": 0.0001264,
+   "last": 0.0002251,
    "peak": 0.0002418,
    "cost": 85.62888133981133,
    "t": 1794793835.7153275,
@@ -13,7 +13,7 @@
   "2NUaS6Gfrm5rBuPBn7svHka8t33SrSkpXGQiUvZLpump": {
    "sym": "Anthropig",
    "entry": 0.00123703,
-   "last": 0.0009135,
+   "last": 0.0007877,
    "peak": 0.00123703,
    "cost": 85.62888133981133,
    "t": 1794793835.7153275,
@@ -314,6 +314,11 @@
   {
    "day": "2026-11-16 10:09",
    "equity": 1488.55,
+   "positions": 2
+  },
+  {
+   "day": "2026-11-16 10:33",
+   "equity": 1517.94,
    "positions": 2
   }
  ],
@@ -1935,6 +1940,9 @@
   "HsiPPZZPmHCjzPfZ8qeJ2KtuRFCtdkBHTV3YKESzpump": 1794823751.12533,
   "EFhoupCEb6GbsVk79zDzFTPsYCR5hcPeDZLyk1TVpump": 1794823751.12533,
   "GRVgUSf8Y2Ue418cmquD8tQ96AMf3cvwDnTE2noPpump": 1794823751.12533,
-  "8MnxBywedNQhEibMEe3gYYeZ9EoA1apAXnYoaXWapump": 1794823751.12533
+  "8MnxBywedNQhEibMEe3gYYeZ9EoA1apAXnYoaXWapump": 1794823751.12533,
+  "tiJjUbGEMfnkyBiYCLfQwvNYAUfiagnY6mQYJMWpump": 1794825208.0120583,
+  "3CacZc651RHTRk9weLRhoPCqADoqqEfgHTsyemRiFHzH": 1794825208.0120583,
+  "AmNwWSYWuR6Wn8qvNHBVwFh5C7aktcBw91wVjz1qpump": 1794825208.0120583
  }
 }

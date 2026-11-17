@@ -1,22 +1,22 @@
 # Classement des bots (argent fictif, depart 1000 EUR chacun)
 
-Mis a jour : 16/11/2026 20:40 UTC
+Mis a jour : 17/11/2026 03:48 UTC
 
 | Rang | Bot | Capital | Perf | Trades | Ventes gagnantes | Positions |
 |---|---|---|---|---|---|---|
-| 1 | Memecoins Solana (Pump Fun) | 1382.63 EUR | +38.3 % | 55 | 6/29 | 2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58g |
-| 2 | Momentum (4h) | 1020.19 EUR | +2.0 % | 7 | 1/1 | TRX, SUI, NEAR, LINK, XRP |
-| 3 | Memecoins securise (reserve 50 %, frein -20 %) | 1003.83 EUR | +0.4 % | 1 | 0/0 | 2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58g |
-| 4 | Zero Lag 4h (top 100) | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
-| 5 | Zero Lag 4h (top 60) | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
-| 6 | Cassure de zone (4h) | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
-| 7 | 3 indicateurs (4h) | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
-| 8 | EQUIPE 2 (Zero Lag + Cassure) | 1000.00 EUR | +0.0 % | 0 | 0/0 | capital partage entre 2 bots |
-| 9 | EQUIPE 3 (Zero Lag + Cassure + Volume) | 999.90 EUR | -0.0 % | 0 | 0/0 | capital partage entre 3 bots |
-| 10 | Volume 4h (achat des chutes) | 999.76 EUR | -0.0 % | 1 | 0/0 | UNI |
-| 11 | Volume whales (4h) | 999.70 EUR | -0.0 % | 2 | 0/1 | aucune |
-| 12 | Zero Lag 1h | 998.31 EUR | -0.2 % | 1 | 0/0 | NEAR |
-| 13 | Narratifs (4h) | 933.11 EUR | -6.7 % | 13 | 2/4 | NEAR, TAO, ICP, HYPE, ASTER |
-| 14 | Copy trading Hyperliquid (4h) | 892.80 EUR | -10.7 % | 16 | 2/8 | aucune |
+| 1 | Memecoins Solana (Pump Fun) | 1427.56 EUR | +42.8 % | 55 | 6/29 | 2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58g |
+| 2 | Memecoins securise (reserve 50 %, frein -20 %) | 1035.55 EUR | +3.6 % | 1 | 0/0 | 2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58g |
+| 3 | Momentum (4h) | 1025.69 EUR | +2.6 % | 9 | 2/2 | TRX, NEAR, LINK, XRP, BTC |
+| 4 | Volume 4h (achat des chutes) | 1002.12 EUR | +0.2 % | 1 | 0/0 | UNI |
+| 5 | Zero Lag 1h | 1000.43 EUR | +0.0 % | 1 | 0/0 | NEAR |
+| 6 | Zero Lag 4h (top 100) | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
+| 7 | Zero Lag 4h (top 60) | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
+| 8 | Cassure de zone (4h) | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
+| 9 | 3 indicateurs (4h) | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
+| 10 | EQUIPE 2 (Zero Lag + Cassure) | 1000.00 EUR | +0.0 % | 0 | 0/0 | capital partage entre 2 bots |
+| 11 | EQUIPE 3 (Zero Lag + Cassure + Volume) | 999.90 EUR | -0.0 % | 0 | 0/0 | capital partage entre 3 bots |
+| 12 | Volume whales (4h) | 999.70 EUR | -0.0 % | 2 | 0/1 | aucune |
+| 13 | Narratifs (4h) | 947.31 EUR | -5.3 % | 15 | 3/5 | NEAR, TAO, ICP, HYPE, UNI |
+| 14 | Copy trading Hyperliquid (4h) | 891.91 EUR | -10.8 % | 17 | 2/8 | ZRO |
 
 Aucun argent reel. Les trades sont dans l'onglet Issues.

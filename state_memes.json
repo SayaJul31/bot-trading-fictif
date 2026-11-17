@@ -4,7 +4,7 @@
   "2NWgu4fqN2AxS5pp5v3f3SH54qArP9JepQFJm58gpump": {
    "sym": "GTA",
    "entry": 0.000716571,
-   "last": 0.001523,
+   "last": 0.001394,
    "peak": 0.001523,
    "cost": 34.43386758436097,
    "t": 1794860244.0454652,
@@ -346,6 +346,11 @@
   {
    "day": "2026-11-17 13:06",
    "equity": 1452.59,
+   "positions": 1
+  },
+  {
+   "day": "2026-11-17 13:49",
+   "equity": 1446.39,
    "positions": 1
   }
  ],
@@ -2065,6 +2070,17 @@
   "CEDu2rFVxpkWVjeKXu2h2DadCe3PVRZDocSR41xpump": 1794920781.4596276,
   "EULWnfX3hvnuod8wARSVFPyU1VnJxTB8YBaJFDvrpump": 1794920781.4596276,
   "AWzt4CgtTK2CZaLFMgd2ZWrHRzzLwp83z6z8UMLypump": 1794920781.4596276,
-  "4HePbdXuZG7wLue1LAZnxCd3rS1yzXd91dhGmY59pump": 1794920781.4596276
+  "4HePbdXuZG7wLue1LAZnxCd3rS1yzXd91dhGmY59pump": 1794920781.4596276,
+  "4htgg1WaAis8nui7d5PrHiou6YyNykzzA35yA53Vpump": 1794923349.307453,
+  "2jvYEfamtwTB7NGjxxcLzsUX3bNbYXMi1Gwd7uYhpump": 1794923349.307453,
+  "9AB99QNimnZJwsAWuSpzUEWRwqr5MPWDerAUSdmncWfF": 1794923349.307453,
+  "Cumx4sciGFtHbRB4HdUSnNoXpkeaNx7A4zRjxcKcBALL": 1794923349.307453,
+  "9C8TYYSgde4geTcLKXoxZmUQHLGN2CZWm4L5pit2pump": 1794923349.307453,
+  "9rkDSoSQ99H5rMZ9zfw8uuTUrk3oPs9AT7P82GAwpump": 1794923349.307453,
+  "96cvLuetKWmecDVjanNAiFCjS9oyuXLJa6amqLsUpump": 1794923349.307453,
+  "A7A3ACEAykDihEvFFh1kkyjzwmobQphdZjeW2Ccqpump": 1794923349.307453,
+  "E7Ek1DQ711qQ1zWd669aUzcgGrGQNEBTk5qazEjKpump": 1794923349.307453,
+  "91Sy7eDmBjq4wmjaaSjHFfJ3ZAora3Nx4bjA3bFm6MBX": 1794923349.307453,
+  "3kLwYa8PXR7Qkb3nheYgmRu7NF3nT8aDxeeiAtfvpump": 1794923349.307453
  }
 }

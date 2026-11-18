@@ -1,6 +1,6 @@
 # Classement des bots (argent fictif, depart 1000 EUR chacun)
 
-Mis a jour : 18/11/2026 21:26 UTC
+Mis a jour : 18/11/2026 22:18 UTC
 
 | Rang | Bot | Capital | Perf | Trades | Ventes gagnantes | Positions |
 |---|---|---|---|---|---|---|
@@ -13,8 +13,8 @@ Mis a jour : 18/11/2026 21:26 UTC
 | 7 | Zero Lag 4h (top 60) | 996.66 EUR | -0.3 % | 1 | 0/0 | NEAR |
 | 8 | 3 indicateurs (4h) | 996.63 EUR | -0.3 % | 1 | 0/0 | NEAR |
 | 9 | Volume 4h (achat des chutes) | 995.80 EUR | -0.4 % | 4 | 1/2 | aucune |
-| 10 | Zero Lag 1h | 995.67 EUR | -0.4 % | 7 | 0/2 | NEAR, SOL, XRP |
-| 11 | Zero Lag 4h (top 100) | 995.12 EUR | -0.5 % | 2 | 0/0 | NEAR, RWUSD |
+| 10 | Zero Lag 4h (top 100) | 995.12 EUR | -0.5 % | 2 | 0/0 | NEAR, RWUSD |
+| 11 | Zero Lag 1h | 993.61 EUR | -0.6 % | 7 | 0/2 | NEAR, SOL, XRP |
 | 12 | Memecoins securise (reserve 50 %, frein -20 %) | 955.34 EUR | -4.5 % | 5 | 1/3 | aucune |
 | 13 | Narratifs (4h) | 911.98 EUR | -8.8 % | 24 | 4/9 | NEAR, HYPE, UNI, ENA, TAO, ICP |
 | 14 | Copy trading Hyperliquid (4h) | 866.62 EUR | -13.3 % | 18 | 2/9 | aucune |

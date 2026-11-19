@@ -1,25 +1,6 @@
 {
- "cash": 782.4795532262017,
- "pos": {
-  "HXT1UpmDkHmphFDrs3JWR3WHpsnoueCyABArTo7Apump": {
-   "sym": "OGTA",
-   "entry": 0.00120922,
-   "last": 0.00120922,
-   "peak": 0.00120922,
-   "cost": 44.20685892604056,
-   "t": 1795096226.3606372,
-   "url": "https://dexscreener.com/solana/8pw2ynra1uig4nkvnhd9agj8yuoluyqqqckwyskmqgva"
-  },
-  "2xCd5qHX5tW6pGUo7zfgHSSAnRjJwPA7Sz1Fu4fWcJjX": {
-   "sym": "Mandy",
-   "entry": 0.00040273,
-   "last": 0.00040273,
-   "peak": 0.00040273,
-   "cost": 44.20685892604056,
-   "t": 1795096226.3606372,
-   "url": "https://dexscreener.com/solana/cduuhndbkyxckshmjyruxpvvrcjo6gikb6hp9z9zyqwk"
-  }
- },
+ "cash": 801.9216446363289,
+ "pos": {},
  "history": [
   {
    "day": "2026-11-16 20:17",
@@ -128,6 +109,12 @@
    "equity": 884.14,
    "reserve": 13.24,
    "positions": 2
+  },
+  {
+   "day": "2026-11-19 21:23",
+   "equity": 815.17,
+   "reserve": 13.24,
+   "positions": 0
   }
  ],
  "trades": [
@@ -207,6 +194,20 @@
    "sym": "Mandy",
    "price": 0.00040273,
    "amount": 44.21
+  },
+  {
+   "day": "2026-11-19 21:23",
+   "side": "VENTE",
+   "sym": "OGTA",
+   "pnl": -0.9988,
+   "why": "liquidite disparue (rug probable)"
+  },
+  {
+   "day": "2026-11-19 21:23",
+   "side": "VENTE",
+   "sym": "Mandy",
+   "pnl": -0.5614,
+   "why": "stop -50 %"
   }
  ],
  "seen": {

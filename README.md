@@ -1,12 +1,12 @@
 # Classement des bots (argent fictif, depart 1000 EUR chacun)
 
-Mis a jour : 20/11/2026 11:26 UTC
+Mis a jour : 20/11/2026 13:33 UTC
 
 | Rang | Bot | Capital | Perf | Trades | Ventes gagnantes | Positions |
 |---|---|---|---|---|---|---|
-| 1 | Memecoins Solana (Pump Fun) | 1078.71 EUR | +7.9 % | 71 | 7/37 | HF2RBPrfNBk9TxggL2cYZFEKSgirzh5HKCngLENT, J7bLsZcpkfky92ir8k36Munz91nHKtcDNhDy8d3Q |
-| 2 | Volume 4h (achat des chutes) | 1002.01 EUR | +0.2 % | 9 | 2/3 | LTC, HBAR, FET |
-| 3 | Cassure de zone (4h) | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
+| 1 | Memecoins Solana (Pump Fun) | 1064.35 EUR | +6.4 % | 73 | 7/38 | HF2RBPrfNBk9TxggL2cYZFEKSgirzh5HKCngLENT, GRMRQSkBGg2Cc8Y9GePNBcJVk49YepWkXUDQBXAM |
+| 2 | Cassure de zone (4h) | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
+| 3 | Volume 4h (achat des chutes) | 995.53 EUR | -0.4 % | 9 | 2/3 | LTC, HBAR, FET |
 | 4 | EQUIPE 2 (Zero Lag + Cassure) | 994.66 EUR | -0.5 % | 0 | 0/0 | capital partage entre 2 bots |
 | 5 | EQUIPE 3 (Zero Lag + Cassure + Volume) | 994.00 EUR | -0.6 % | 0 | 0/0 | capital partage entre 3 bots |
 | 6 | Volume whales (4h) | 992.69 EUR | -0.7 % | 3 | 0/1 | MMT |

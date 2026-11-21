@@ -1,28 +1,10 @@
 {
- "cash": 678.6668343421668,
+ "cash": 658.7451761016742,
  "pos": {
-  "2TngN4B7XaoGSKsYvttq5bFAdM4Z4xCSnuyRwGiFpump": {
-   "sym": "PUNANI",
-   "entry": 0.00321463,
-   "last": 0.00274,
-   "peak": 0.00321463,
-   "cost": 48.20757066082337,
-   "t": 1795253796.8031614,
-   "url": "https://dexscreener.com/solana/cnzhs2nmrnkwtpwk9okduscipbrddghpmnpnmnpd4hwa"
-  },
-  "FJKt1LxbWBpTRt9BaDEB6Wr2qL5LZzjFF5sx8rXnpump": {
-   "sym": "MAYA",
-   "entry": 0.0032393499999999998,
-   "last": 0.002518,
-   "peak": 0.003831,
-   "cost": 48.20757066082337,
-   "t": 1795253796.8031614,
-   "url": "https://dexscreener.com/solana/51edmriyson7mwtgqxaysog4z9nnvhvuupbuyy1epcbo"
-  },
   "3b7WvfRxRaoMuq4j6JWJzrL5mym3Km3QzfX5dqCopump": {
    "sym": "Bigfoot",
    "entry": 0.00020085,
-   "last": 0.0001518,
+   "last": 0.0001641,
    "peak": 0.00020085,
    "cost": 47.71831999015972,
    "t": 1795281687.1499271,
@@ -31,7 +13,7 @@
   "dkpuQdjegjU8zcwYrBzYrLW11wvtjwonBsQhjLApump": {
    "sym": "RIEMANN",
    "entry": 0.00149556,
-   "last": 0.001003,
+   "last": 0.0009935,
    "peak": 0.00149556,
    "cost": 47.71831999015972,
    "t": 1795281687.1499271,
@@ -40,7 +22,7 @@
   "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": {
    "sym": "NOHR",
    "entry": 0.0019085900000000002,
-   "last": 0.001883,
+   "last": 0.001827,
    "peak": 0.0019085900000000002,
    "cost": 47.71831999015972,
    "t": 1795281687.1499271,
@@ -49,11 +31,20 @@
   "EV7J2QaPXPytSkM1LD9GPRkgAbmSEr9R3kYiXBzbpump": {
    "sym": "chud",
    "entry": 0.0005386900000000001,
-   "last": 0.0005386900000000001,
+   "last": 0.0004408,
    "peak": 0.0005386900000000001,
    "cost": 45.91447758217477,
    "t": 1795290303.2059844,
    "url": "https://dexscreener.com/solana/hqbft5frsdkj1scauc62uqvxrzrm4f9fhoot9u4pcfj2"
+  },
+  "zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor": {
+   "sym": "SIDOOR",
+   "entry": 0.000432188,
+   "last": 0.000432188,
+   "peak": 0.000432188,
+   "cost": 42.77268450629215,
+   "t": 1795302229.3837783,
+   "url": "https://dexscreener.com/solana/3peuge6fm4fpavvrv2kbfn3nvlbcgehgouxddxahuscr"
   }
  },
  "history": [
@@ -526,6 +517,11 @@
    "day": "2026-11-21 19:45",
    "equity": 918.29,
    "positions": 6
+  },
+  {
+   "day": "2026-11-21 23:03",
+   "equity": 855.45,
+   "positions": 5
   }
  ],
  "trades": [
@@ -1095,56 +1091,32 @@
    "sym": "chud",
    "price": 0.0005386900000000001,
    "amount": 45.91
+  },
+  {
+   "day": "2026-11-21 23:03",
+   "side": "VENTE",
+   "sym": "PUNANI",
+   "pnl": -0.8386,
+   "why": "stop -50 %"
+  },
+  {
+   "day": "2026-11-21 23:03",
+   "side": "VENTE",
+   "sym": "MAYA",
+   "pnl": -0.6874,
+   "why": "stop -50 %"
+  },
+  {
+   "day": "2026-11-21 23:03",
+   "side": "ACHAT",
+   "sym": "SIDOOR",
+   "price": 0.000432188,
+   "amount": 42.77
   }
  ],
  "seen": {
   "ASPrRmpyS2ZwvsghdJjQMZpkQDFb4tdMyDiWAec8J1wN": 1794853091.074938,
   "6bYMEsNWWtioQtBqEDqdvnxnHNTNcxdnftsVHhxUTYfj": 1794853091.074938,
-  "85RhcSEMy15SNhFLmSArNm7udPKXVagVgsq4YmSopump": 1794691262.3078265,
-  "27sDLLwdhfd4bAn3Lq8KfEoaie2924vRbQsyjdjjpump": 1794691262.3078265,
-  "46sup1Mc1AdQPpikrdNLUjmzSgZcEYdV3pk8XPPXpump": 1794691262.3078265,
-  "HWA17ggpNtLaxCe5b9r3gzg9FcV5KAGk2A2Z9UMmpump": 1794691262.3078265,
-  "FUJVh9hP8wCXC8grL5sy5KN1x5Mucxm8fvk1TSWkpump": 1794691262.3078265,
-  "Bv8gmCuYj6CuamVbaytzYRd9Ncgmc5dyoefLCknjpump": 1794691262.3078265,
-  "BtB54BEhTsx8syvWFUcMEe6vxASyL9zP7feXY5d1pump": 1794691262.3078265,
-  "F82MdJHkpFYW9kbokK9wq2xXYnB4BTkCYaWEi3WTpump": 1794691262.3078265,
-  "8JNcbK2bWFxQnZsR6xQtgB3en7DcFSXW5xSyh6fYpump": 1794691262.3078265,
-  "FKBfTuyT4crwNCiFWoyh2GYJRY4LvQ87WSZ9t4Hbpump": 1794691262.3078265,
-  "MUq64uw4qd6uJ9qMVsQhiiG7DckLWLXWZMDB5u3pump": 1794691262.3078265,
-  "GEppMmnXswv1cqJBMUU2t8QkB2FCRrQUQb1v7K3xpump": 1794691262.3078265,
-  "7FzqM1GHu3ceB9AiZyUXPuTuM6HUQ912PBXp2YWDqWzK": 1794691262.3078265,
-  "BMhaBWe4pqGNs1NmBB4bNmmH1wiM949ZZK9F3xNbpump": 1794691262.3078265,
-  "fX9dKa1DVdjSvYk3f2GAcj2RjQ5DFa54QTWAsXBpump": 1794691262.3078265,
-  "HAZ2kZD64zvUaTtrqQXhNEwHCiGEbtHWVss7c66kpump": 1794691262.3078265,
-  "HMdus7YaVZ4c6aJ61bS7uuMWunH6icv4mpsE422Fpump": 1794691262.3078265,
-  "7tmCCpf3TghHJpn9a6CXuD2L85T1JdMApyUDju5sJWhw": 1794691262.3078265,
-  "ExqCUg4iFkZzHdP3ATSK9B3EvKXn9TegF2DEYysNpump": 1794691262.3078265,
-  "D4EuJvbpnD1vd6LT2DFackhBZRRMhc8ZBTEMbGjYpump": 1794691262.3078265,
-  "E4cPZZNbmLEbT8RkSQthgiiZpSuJPtUh1uxYUL4Mpump": 1794691262.3078265,
-  "5A5EcRyeAtgUJpxFrFfDhfQkvv2B2UDHzUXabe7Npump": 1794691262.3078265,
-  "6N84dFHMxK8BoRjAWTVqy4CMepYEb6rSjVchqUe3pump": 1794691262.3078265,
-  "GNVFQK7ncyHRd5J5244wacsbBMXa46hFDWwCcnZVpump": 1794691262.3078265,
-  "6vtfL1Zi8YQqQrsxwLqguFNFCvwmER5SnYSBYDTRpump": 1794692452.1579626,
-  "2jXTdUamxGAbs4XuxZKLZvaoqroMCVeapmnKtHLbpump": 1794692452.1579626,
-  "evEMtcGxN65ithiDjqNNEhut4ZhN4rvfErGEfbUpump": 1794692452.1579626,
-  "D5a6WoT5ZCNJEk5Ze2oUvHVnnMnMdFodZDvCb62Ypump": 1794692452.1579626,
-  "F2NAcpANcfyNTavfqo6djGZvSnUi2dbeW4HGgxEpump": 1794692452.1579626,
-  "8oUuiin1bhAz4bmmyzA8EUBpEP9tKpd2kmAn2qNxpump": 1794692452.1579626,
-  "DYoRFr5vGFtQCR8F16EDJ3J9XHUGQpNKQMdCFtGvpump": 1794692452.1579626,
-  "BjXHS1g9Rp8McwY2TiwoacY2hsaRbmRJjXp2pqBwpump": 1794692452.1579626,
-  "6tb59CMYjg8knGUyaGb19Y7mSmYnWPg92so6BJDpump": 1794692452.1579626,
-  "5m7LL2PsFkNZB9k2qiTAVJ8eAcPPP6jTzs5VExFpump": 1794692452.1579626,
-  "GQa2JUrozaYFCGSxakx5jePPJVTwqWdZuWCvJmD6pump": 1794692452.1579626,
-  "ABAeCv4aALMi6fBaDCG1xtEJdRhFsuPSPMu8R1wUpump": 1794692452.1579626,
-  "84igg1fv6fsXtfHgY2qqbu9mhME5YmR9hKoQEPQQpump": 1794692452.1579626,
-  "GYAFSKPkdtBBZm9HxaEi9Jin479C41Ajjt9E7ud6pump": 1794692452.1579626,
-  "Dq2GeXUVXopkitg2A3U8W7B3BXYu28XxaU3r9Zavpump": 1794692452.1579626,
-  "HMcXzGEdUby3mabtrsuAXRy4gmgwwbrHbPEyTVDhpump": 1794692452.1579626,
-  "3Q2uWX4YbEWGcigiDFz9pfxoyGBjrFfy1MaQ96Skpump": 1794692452.1579626,
-  "Czq9WktXA9NCyRJEF7VxpDe1PXX9y4VEwXuFLsEspump": 1794692452.1579626,
-  "Ftp83o7NPTdxWyR2FG9SxmrhCgBJjcYWqVDR6FTupump": 1794692452.1579626,
-  "EvUHfJQx4f9NRekDxb9XZhSrhdmaTVAKrkGtM4Pspump": 1794692452.1579626,
-  "ANtFv1HjVtWwUgbr8hibSeLdE38mkJpmmMAwdH2cpump": 1794692452.1579626,
   "Acgs6mb4PC7tQbDm9T4EeTfNx3ZDh5fNSjHcHZQLpump": 1794707126.7348773,
   "AvRSpY1rPA9iVFxYHc5D5JQW6oU5tjGQZdsW2e5upump": 1794707126.7348773,
   "3k62fdCfbP9TsoWbdCUrUu21ExzKyxfPwJsZ2REYpump": 1794707126.7348773,
@@ -2273,6 +2245,31 @@
   "3QcYNgx6tNRK8V8n1rS3xD2bjMkbFeEpg3qEGY7npump": 1795290303.2059844,
   "4XU3YWKE2sGDynK6WPVpnSr66xHZAFouk4o8Jahbpump": 1795290303.2059844,
   "5iKnBZcgUmpiU8uHmPxhYGSehRjE41ABovtuApaWWDJe": 1795290303.2059844,
-  "DNpbqKUNhRNNKbfx3LGHcmBb1zk5pRTHWX4vPMnfpump": 1795290303.2059844
+  "DNpbqKUNhRNNKbfx3LGHcmBb1zk5pRTHWX4vPMnfpump": 1795290303.2059844,
+  "9tX1UpBGeNqMb1VqqzVumwzW71ybsNZFyWKYiL8Ppump": 1795302229.3837783,
+  "27u3diWofnXGUkddjLGhcy1nRssFKHW3RtNbpWzUpump": 1795302229.3837783,
+  "zcRvzm7gAfYGde8gRwaSYxNryL47SjLVUQLAf1bdoor": 1795302229.3837783,
+  "2G5b75jm9HtJmAccjxpzdWGs5r7XXeMYLTANoEcvpump": 1795302229.3837783,
+  "7CvW68FD9KjNYGByfykhaNps7VNPLN8dFwMRfmgQpump": 1795302229.3837783,
+  "DUvFjnaE3r46WLbz9rz6MNk2bq9xPFPUfMd8bDgmpump": 1795302229.3837783,
+  "FxUMvvYHW6r41wtbbm4V52Hnu7cyyFfqhSXuwmuypump": 1795302229.3837783,
+  "14coJKKEShg6ZaSKggQjubtKsCjWUZBWRa2v3E5ypump": 1795302229.3837783,
+  "HUpUhhHm3rh5kx47KE3h9MbHq6sHLNgaXGEf5e7Xpump": 1795302229.3837783,
+  "Cw2n3qhmmqY9zojc5sTc2MMYCr7VSTd4aDHpKApZpump": 1795302229.3837783,
+  "BSF5xg7CuxkQWsbJWyHYw2HnuNbQtKybGaNhz9cCpump": 1795302229.3837783,
+  "G8uej6HYR627NHmfuMrrbdttkzuBLbCYsmGfHBNxpump": 1795302229.3837783,
+  "8XhBJQbSitPkrHaneJL8i7FZrZk9cNiKZRaWALoYpump": 1795302229.3837783,
+  "B1P3oXhJNoQsRLqWGGkXgowRtHuXrR8CQrHsgfk3UAKS": 1795302229.3837783,
+  "5pEWJLgtJuL3L5brWUewVxfGDQ6yMdGV63edX9Wnpump": 1795302229.3837783,
+  "TiMSdJrkVwUpeEWJpuqRvHt4wVS7uH77LbNPGGVJXNw": 1795302229.3837783,
+  "FzdAR4bBxAsH1LP5CxxS25JU6ecfZD9ZoVZQQL3Lpump": 1795302229.3837783,
+  "5vdhKfRpwUeGgt87YKPydyDNh9jJ2U4jrcWVGQ4Dpump": 1795302229.3837783,
+  "A7f86oAiuNi7x8v68axKdGE5VP8JMxHwpU2THn7B1BuQ": 1795302229.3837783,
+  "8ReF5Nv1D56uwxdEEb7J2XYq9qiyP2DspD6cV6DqWVTc": 1795302229.3837783,
+  "4RtmiCdvKszPoW5oNyjXC5uK8kfM6HjE4Gt2g7sNpump": 1795302229.3837783,
+  "BjvD62CeknCCn94ciFN5aHPoNvSmcXvVHr8XonBpump": 1795302229.3837783,
+  "DSCmSdNMJzruWz1qYDZuPKJrW1QMMHyp5qEFGnk7pump": 1795302229.3837783,
+  "2agTxtRCSPrXLdtqpfXbiDJXvY72UUKe3mkhxNJEpump": 1795302229.3837783,
+  "9CzH43caG7FLeWyc4jS9Mzbp3FmjxnDV15zspW4Cpump": 1795302229.3837783
  }
 }

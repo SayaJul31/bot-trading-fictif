@@ -1,10 +1,10 @@
 {
- "cash": 724.5813119243415,
+ "cash": 678.6668343421668,
  "pos": {
   "2TngN4B7XaoGSKsYvttq5bFAdM4Z4xCSnuyRwGiFpump": {
    "sym": "PUNANI",
    "entry": 0.00321463,
-   "last": 0.001975,
+   "last": 0.00274,
    "peak": 0.00321463,
    "cost": 48.20757066082337,
    "t": 1795253796.8031614,
@@ -13,7 +13,7 @@
   "FJKt1LxbWBpTRt9BaDEB6Wr2qL5LZzjFF5sx8rXnpump": {
    "sym": "MAYA",
    "entry": 0.0032393499999999998,
-   "last": 0.003831,
+   "last": 0.002518,
    "peak": 0.003831,
    "cost": 48.20757066082337,
    "t": 1795253796.8031614,
@@ -22,7 +22,7 @@
   "3b7WvfRxRaoMuq4j6JWJzrL5mym3Km3QzfX5dqCopump": {
    "sym": "Bigfoot",
    "entry": 0.00020085,
-   "last": 0.00020085,
+   "last": 0.0001518,
    "peak": 0.00020085,
    "cost": 47.71831999015972,
    "t": 1795281687.1499271,
@@ -31,7 +31,7 @@
   "dkpuQdjegjU8zcwYrBzYrLW11wvtjwonBsQhjLApump": {
    "sym": "RIEMANN",
    "entry": 0.00149556,
-   "last": 0.00149556,
+   "last": 0.001003,
    "peak": 0.00149556,
    "cost": 47.71831999015972,
    "t": 1795281687.1499271,
@@ -40,11 +40,20 @@
   "Jd3NCawdFiDNWpLiTtsMqoeoBMjC1ZQMrMScRVzpump": {
    "sym": "NOHR",
    "entry": 0.0019085900000000002,
-   "last": 0.0019085900000000002,
+   "last": 0.001883,
    "peak": 0.0019085900000000002,
    "cost": 47.71831999015972,
    "t": 1795281687.1499271,
    "url": "https://dexscreener.com/solana/fbqxu5ezpbbv4vktfd83qperygcotcvqzrtabsxhqs2m"
+  },
+  "EV7J2QaPXPytSkM1LD9GPRkgAbmSEr9R3kYiXBzbpump": {
+   "sym": "chud",
+   "entry": 0.0005386900000000001,
+   "last": 0.0005386900000000001,
+   "peak": 0.0005386900000000001,
+   "cost": 45.91447758217477,
+   "t": 1795290303.2059844,
+   "url": "https://dexscreener.com/solana/hqbft5frsdkj1scauc62uqvxrzrm4f9fhoot9u4pcfj2"
   }
  },
  "history": [
@@ -512,6 +521,11 @@
    "day": "2026-11-21 17:21",
    "equity": 954.37,
    "positions": 5
+  },
+  {
+   "day": "2026-11-21 19:45",
+   "equity": 918.29,
+   "positions": 6
   }
  ],
  "trades": [
@@ -1074,6 +1088,13 @@
    "sym": "NOHR",
    "price": 0.0019085900000000002,
    "amount": 47.72
+  },
+  {
+   "day": "2026-11-21 19:45",
+   "side": "ACHAT",
+   "sym": "chud",
+   "price": 0.0005386900000000001,
+   "amount": 45.91
   }
  ],
  "seen": {
@@ -2229,6 +2250,29 @@
   "AETa8UDpWknf34AH2p57sEiPmpvcqYz6yEtHnqc5fWUd": 1795281687.1499271,
   "CkYnDyDcgyYB4BzwGdbK2T6G8BzACcbPhS4haHbPpump": 1795281687.1499271,
   "56H3RsryPtrnCrhYVsTQk7DsG6Ff4tJwYcX8vpTcpump": 1795281687.1499271,
-  "7C2Nf7QNKyPL12tfQLzbUFPrZDtJzHsVwBvwVw7ypump": 1795281687.1499271
+  "7C2Nf7QNKyPL12tfQLzbUFPrZDtJzHsVwBvwVw7ypump": 1795281687.1499271,
+  "DKUM8qywmi8X9RYK2wUgnTw8QKjh1nYDThZR1GXPpump": 1795290303.2059844,
+  "7gqk4Ap5iYjnWHtkwygYp8bcAVFSiMo8aMJ1cGvPpump": 1795290303.2059844,
+  "EV7J2QaPXPytSkM1LD9GPRkgAbmSEr9R3kYiXBzbpump": 1795290303.2059844,
+  "2DPkAuPQFAKn3mnb6GT8H9oK8qm6NGmf3jMt7wbxpump": 1795290303.2059844,
+  "DF7SpmTYrr44c2H3XobdcD3G2NyTyGMhxT2R6T7hpump": 1795290303.2059844,
+  "51TUkCJcBPi5fj9gZgjnXh6Ny5RSiEbrxUBoikDLpump": 1795290303.2059844,
+  "Dtx414D8jurspmB1jqJWsYU66pemoXRjQeXx7TC1pump": 1795290303.2059844,
+  "7rGmC4qH99shHrxgXgQbkM38zhefd8eBqrRusUKgpump": 1795290303.2059844,
+  "9Z3vdxmdfzVqFF46GMsHnRXwzWYjFFdDtEDmFw38pump": 1795290303.2059844,
+  "7SjpHoT4mJrqCdS8F1sN3EaNNm7Zv4ijCwgXeYr7xVkr": 1795290303.2059844,
+  "8xegBRcvNUMYTtxno5DnPLMMHRXQg9RrUVnQwEVppump": 1795290303.2059844,
+  "Fb4u75SCxDmQ2Vgq5eyo8tGpaULfqMMExvpvJYyJpump": 1795290303.2059844,
+  "Ddjx79mvSGZSVgpHEqQpJM8q1LmjB5AzsLTDdSSLpump": 1795290303.2059844,
+  "BCTwG3LDhNcthcK374aWQfAzLYGRXDu1apmrqw3Tpump": 1795290303.2059844,
+  "JaB8P85aP2sJd5prcmrqHqQXAUS8mp4JSfbM9Yhpump": 1795290303.2059844,
+  "7nKgKrpb1apFvmYxeKkafVCiJcPW9S4u9ExZMGsdpump": 1795290303.2059844,
+  "SPHFHU7sz2EZQYqyxMrZjgFdiYSCXJxRBE4giAjpump": 1795290303.2059844,
+  "69y8YU1njkJaHzWy11i1xjzYQWa8d9FZWP3v7gLwpump": 1795290303.2059844,
+  "5yK1F7qMGfZdhwMHrLsW2oi3Bqf63PmZpG4uhGywpump": 1795290303.2059844,
+  "3QcYNgx6tNRK8V8n1rS3xD2bjMkbFeEpg3qEGY7npump": 1795290303.2059844,
+  "4XU3YWKE2sGDynK6WPVpnSr66xHZAFouk4o8Jahbpump": 1795290303.2059844,
+  "5iKnBZcgUmpiU8uHmPxhYGSehRjE41ABovtuApaWWDJe": 1795290303.2059844,
+  "DNpbqKUNhRNNKbfx3LGHcmBb1zk5pRTHWX4vPMnfpump": 1795290303.2059844
  }
 }

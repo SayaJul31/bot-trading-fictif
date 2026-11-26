@@ -1,10 +1,10 @@
 # Classement des bots (argent fictif, depart 1000 EUR chacun)
 
-Mis a jour : 25/11/2026 22:32 UTC
+Mis a jour : 26/11/2026 01:09 UTC
 
 | Rang | Bot | Capital | Perf | Trades | Ventes gagnantes | Positions |
 |---|---|---|---|---|---|---|
-| 1 | Volume 4h (achat des chutes) | 1019.18 EUR | +1.9 % | 43 | 11/18 | ZRO, TAO, GRAM, AAVE, ZEC, XLM, BTC |
+| 1 | Volume 4h (achat des chutes) | 1026.16 EUR | +2.6 % | 43 | 11/18 | ZRO, TAO, GRAM, AAVE, ZEC, XLM, BTC |
 | 2 | 3 indicateurs (4h) | 1016.34 EUR | +1.6 % | 27 | 6/10 | SOL, SUI, PEPE, BTC, ETH, HYPE, ADA |
 | 3 | Cassure de zone (4h) | 1000.00 EUR | +0.0 % | 0 | 0/0 | aucune |
 | 4 | EQUIPE 2 (Zero Lag + Cassure) | 994.81 EUR | -0.5 % | 0 | 0/0 | capital partage entre 2 bots |
@@ -17,6 +17,6 @@ Mis a jour : 25/11/2026 22:32 UTC
 | 11 | Memecoins securise (reserve 50 %, frein -20 %) | 815.17 EUR | -18.5 % | 13 | 1/7 | aucune |
 | 12 | Narratifs (4h) | 786.04 EUR | -21.4 % | 83 | 16/39 | NEAR, TAO, FET, ARB, POL |
 | 13 | Copy trading Hyperliquid (4h) | 734.23 EUR | -26.6 % | 26 | 2/13 | aucune |
-| 14 | Memecoins Solana (Pump Fun) | 599.53 EUR | -40.0 % | 101 | 7/53 | aucune |
+| 14 | Memecoins Solana (Pump Fun) | 599.53 EUR | -40.0 % | 102 | 7/53 | 5CPiu3nmhYWWnj6BfebvMzqqwPUBm8UzBtNGW4cE |
 
 Aucun argent reel. Les trades sont dans l'onglet Issues.

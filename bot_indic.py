@@ -30,7 +30,7 @@ for s in syms:
     if mode=="cassure":
         hi=c.rolling(50).max().shift(); lo=c.rolling(50).min().shift(); sb=hi-(hi-lo)*0.25
         brk=c.iloc[-1]>sb.iloc[-1] and c.iloc[-2]<=sb.iloc[-2]
-        buy=bool(brk and cross.tail(3).any() and volok and liq)
+        buy=bool(brk and cross.tail(6).any() and liq)
     else:
         hi=c.rolling(100).max(); lo=c.rolling(100).min()
         buy=bool(cross.iloc[-1] and volok and liq and c.iloc[-1]<=lo.iloc[-1]+(hi.iloc[-1]-lo.iloc[-1])*0.5)

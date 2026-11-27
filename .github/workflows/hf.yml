@@ -18,7 +18,6 @@ jobs:
           python-version: "3.11"
       - run: pip install pandas numpy requests
       - run: |
-          python bot_zl_tf.py 1h || true
           python bot_zl_tf.py 4h || true
           python bot_memes.py || true
           python bot_memes_v2.py || true

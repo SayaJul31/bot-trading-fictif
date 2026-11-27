@@ -28,4 +28,4 @@ if True:  # filtre Bitcoin retire
         if len(targets)>=10: break
         targets.append(s)
 st.setdefault("slots",10)
-rebalance(name,label,st,targets,px,stop=0.10)
+rebalance(name,label,st,targets,px,stop=0.07,tp=0.05,trail=0.05)

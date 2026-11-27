@@ -22,4 +22,4 @@ if True:  # filtre Bitcoin retire
         m=c.iloc[-1]/c.iloc[-8]-1
         sc[s]=m
     targets=sorted(sc,key=sc.get,reverse=True)[:5]
-rebalance("momentum","MOMENTUM",st,targets,px,stop=0.15)
+rebalance("momentum","MOMENTUM",st,targets,px,stop=0.08,tp=0.05,trail=0.05)

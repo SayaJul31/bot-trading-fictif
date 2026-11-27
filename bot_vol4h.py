@@ -3,7 +3,7 @@ import json, os, time, requests, numpy as np, pandas as pd
 from common import issue, FEE, BASE
 f="state_vol4h.json"; L="VOL 4H"
 st=json.load(open(f)) if os.path.exists(f) else {"cash":1000.0,"pos":{},"history":[],"trades":[],"last_bar":0}
-SLIP=0.002; TP=0.06; SL=0.08; MAXH=48; MAXP=10; SZ=0.10; RSI_MAX=35; VX=1.5
+SLIP=0.002; TP=0.06; SL=0.08; MAXH=96; MAXP=10; SZ=0.10; RSI_MAX=35; VX=1.5
 STABLE={"USDC","FDUSD","TUSD","USDP","DAI","EUR","BUSD","USDE","USD1","XUSD","RLUSD","PYUSD","AEUR","EURI","PAXG","WBTC","WBETH","BFUSD","USDS","XAUT","RWUSD","U","KORU"}
 now=time.time(); day=time.strftime("%Y-%m-%d %H:%M",time.gmtime()); msgs=[]
 def okb(b): return b not in STABLE and not (b.endswith("B") and b!="BNB") and not b.endswith(("UP","DOWN"))

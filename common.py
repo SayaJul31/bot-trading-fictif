@@ -9,11 +9,18 @@ def issue(title,body):
 def load(name):
     f=f"state_{name}.json"
     return json.load(open(f)) if os.path.exists(f) else {"cash":1000.0,"pos":{},"history":[],"trades":[]}
-def rebalance(name,label,st,targets,px,stop=None):
+def rebalance(name,label,st,targets,px,stop=None,tp=None,trail=None):
     day=str(dt.date.today()); msgs=[]
-    for s,p in st["pos"].items(): p["last"]=px.get(s,p["last"])
+    for s,p in st["pos"].items(): p["last"]=px.get(s,p["last"]); p["peak"]=max(p.get("peak",p["entry"]),p["last"])
+    if tp:
+        for s,p in st["pos"].items():
+            if not p.get("half") and p["last"]>=p["entry"]*(1+tp):
+                q=p["qty"]/2; out=q*p["last"]*(1-FEE); c0=p["cost"]/2
+                st["cash"]+=out; p["qty"]-=q; p["cost"]-=c0; p["half"]=True
+                st["trades"].append(dict(day=day,side="VENTE",sym=s,price=p["last"],pnl=round(out/c0-1,4),why="moitie encaissee"))
+                msgs.append((f"[{label}] GAIN PARTIEL {s[:-4]} {out/c0-1:+.1%}",f"{day} : la moitie de {s[:-4]} est vendue a {p['last']:g} $. Le reste suit un stop suiveur."))
     for s in list(st["pos"]):
-        p=st["pos"][s]; hit=stop and p["last"]<=p["entry"]*(1-stop)
+        p=st["pos"][s]; hit=(stop and not p.get("half") and p["last"]<=p["entry"]*(1-stop)) or (trail and p.get("half") and p["last"]<=p["peak"]*(1-trail))
         if s not in targets or hit:
             out=p["qty"]*p["last"]*(1-FEE); pnl=out/p["cost"]-1; st["cash"]+=out; del st["pos"][s]
             st["trades"].append(dict(day=day,side="VENTE",sym=s,price=p["last"],pnl=round(pnl,4)))

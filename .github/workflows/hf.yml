@@ -21,6 +21,7 @@ jobs:
           python bot_zl_tf.py 1h || true
           python bot_zl_tf.py 4h || true
           python bot_memes.py || true
+          python bot_memes_v2.py || true
           python bot_memes_safe.py || true
           python bot_vol4h.py || true
           python bot.py || true

@@ -1,15 +1,33 @@
 {
- "cash": 565.0392165651211,
+ "cash": 499.09877749853956,
  "pos": {
   "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump": {
    "sym": "PUMPCHAN",
    "entry": 0.0016480000000000002,
-   "last": 0.009202,
-   "peak": 0.00939,
+   "last": 0.01092,
+   "peak": 0.01092,
    "cost": 14.241191109701973,
    "t": 1795668937.0518737,
    "url": "https://dexscreener.com/solana/ddcyemq9bkyqtc93djkwah6vamkcjvsocuvgv29q7teb",
    "half": true
+  },
+  "4obGGXRMVyqpWZr12UzyaBdNkgdYwz2GiY8enmd2pump": {
+   "sym": "Santaball",
+   "entry": 0.0009618140000000001,
+   "last": 0.0009618140000000001,
+   "peak": 0.0009618140000000001,
+   "cost": 32.97021953329081,
+   "t": 1795749336.2114499,
+   "url": "https://dexscreener.com/solana/fbjukdyu6dedknkum4djqktz5y6u6939xbwwozdqqfzz"
+  },
+  "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump": {
+   "sym": "Snowball",
+   "entry": 0.000770234,
+   "last": 0.000770234,
+   "peak": 0.000770234,
+   "cost": 32.97021953329081,
+   "t": 1795749336.2114499,
+   "url": "https://dexscreener.com/solana/aircdeu4yl6hjuina65mtwakzmex7stkzsinmyzhzkt2"
   }
  },
  "history": [
@@ -627,6 +645,11 @@
    "day": "2026-11-26 23:42",
    "equity": 644.56,
    "positions": 1
+  },
+  {
+   "day": "2026-11-27 03:15",
+   "equity": 659.4,
+   "positions": 3
   }
  ],
  "trades": [
@@ -1378,35 +1401,23 @@
    "sym": "PUMPCHAN",
    "pnl": 1.9399,
    "why": "moitie vendue a x2"
+  },
+  {
+   "day": "2026-11-27 03:15",
+   "side": "ACHAT",
+   "sym": "Santaball",
+   "price": 0.0009618140000000001,
+   "amount": 32.97
+  },
+  {
+   "day": "2026-11-27 03:15",
+   "side": "ACHAT",
+   "sym": "Snowball",
+   "price": 0.000770234,
+   "amount": 32.97
   }
  ],
  "seen": {
-  "J368btynAg5qCa414hj9WriSmRwp6H2sgWzXoRt3pump": 1795143667.7044022,
-  "FyCaKh6wXuot5NmqQMt5oBrSHh3wFk14w5M9dHQDpump": 1795143667.7044022,
-  "4oiC2EpwCuYbJNJPuWXrmVHnhTZ64yXAWyBDNATjpump": 1795143667.7044022,
-  "BLdC7hwRijHudKYDmtEkx1SHUdBWm8XbjBCSvwa6pump": 1795143667.7044022,
-  "DCPm44cT9i39HjR13QHYgxkR7wEx9TDeniGuayB5pump": 1795143667.7044022,
-  "GUyj5yDeaKwCnLvMSxZKVVGLLLJ5nn5fxXXewkfnpump": 1795143667.7044022,
-  "i48RfaqcYLRnNLpSxt8akF2ZubNuHckEReqBVPWpump": 1795143667.7044022,
-  "HF2RBPrfNBk9TxggL2cYZFEKSgirzh5HKCngLENTpump": 1795143667.7044022,
-  "44DZsPNJUtUyTkELAFYdwCpe82sEt12HZKrMgK1Spump": 1795143667.7044022,
-  "ELbCDkRuUTuzPCR6CarMVtR1CYh71AzGhuZTBPePpump": 1795143667.7044022,
-  "5AwnCWbvq64i9f5cbXJdFzhBZ3EpEWjk3Kp68582pump": 1795143667.7044022,
-  "CSTnN7ybTpj6MT8izw6uW8zUW95EaQo4YWATb9rJpump": 1795143667.7044022,
-  "7xumDqxh6AfkPov41c2R6SdCiPrZdWJJTsbogiSepump": 1795143667.7044022,
-  "FoVdh9nrKp2D35bBU2jS3TML4vQWMGk16HTYxoUA6zKv": 1795143667.7044022,
-  "Axkd2GMCfA4Lehb2gQR6bG8irjwTVaQcHXxwiBNt2Rbo": 1795143667.7044022,
-  "55cWztv9pQrKKy5Yn2RVU5rJmfytjevsRfdphrmopump": 1795143667.7044022,
-  "89geZNfwC39Jw3n3vqye9PSXXMTQgQFiLcp9WNwzpump": 1795143667.7044022,
-  "8XDnGWN2aY9b4u2DwawHzxjvkPvS9J2PNouPJV58pump": 1795143667.7044022,
-  "Eh2zcpFTKQkH2ivAzyMCg2CuVBW8mx4bkWKRDSmcEray": 1795143667.7044022,
-  "4G32oij5fmM4VkH5MKw1eCku3Mdnb9XydCjZMtFCpump": 1795143667.7044022,
-  "4jfRNGVvZCCe98hWLPtizGxMAGrCDCVgLzdBHgM2pump": 1795143667.7044022,
-  "3emn4AZwHpsH8K6rqjsMTeFHJTg4XqdPe9PBHpV3JANJ": 1795143667.7044022,
-  "2NFsBCVWG7CsGXQtmkFQaDLJCLHbM7wbMo9xhAo1Di1U": 1795143667.7044022,
-  "47ubrZhhuahv1DDouJCSEkWxJim3yzQBh1FKyKcvpump": 1795143667.7044022,
-  "9Tkxnts5w6qW2TyU8Bx9AgCKzFwY8DEtufo43QJypump": 1795143667.7044022,
-  "B2vDZ2h1EKgzKBNZCWsr6iLwwoqUPu9CEoRKaGPEpump": 1795143667.7044022,
   "J4MWnwGM4dZJsVrdygJL4q6TPVvARwS4ffnCPCm9pump": 1795146158.7548149,
   "Csoj9XHJfBAxsKswqKKBENnGeoRDHtACfyYi7HmJpump": 1795146158.7548149,
   "93oSAc16rd8vZVt9Wt6QWvAzHqWMAYUobqPYQMoGpump": 1795146158.7548149,
@@ -2398,6 +2409,28 @@
   "FRkDqw9RBbFLGZDZ4z8D8yszkqA49Mejpzy9vqWtpump": 1795736567.0579693,
   "Ak4BGyneYMfy2b7WrYaknsbSSz4x6jSeTTguEsgypump": 1795736567.0579693,
   "Bs65KuvSxcXd9eSKVLXJxyY1amzGn6k77T4U2B6k6CBP": 1795736567.0579693,
-  "MB1VZiQ9K3sGpFCEiQuNE6mcqma7fKBihhSohYeC31t": 1795736567.0579693
+  "MB1VZiQ9K3sGpFCEiQuNE6mcqma7fKBihhSohYeC31t": 1795736567.0579693,
+  "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh": 1795749336.2114499,
+  "G2XqmSc8vJpLLwaLVXUeNkxsrhVT8vQ3Pje8MqeDpump": 1795749336.2114499,
+  "7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump": 1795749336.2114499,
+  "FDJfGGPSw9jJ8JRnQW62GLGekjUHKDxdeA9kh27Tpump": 1795749336.2114499,
+  "4obGGXRMVyqpWZr12UzyaBdNkgdYwz2GiY8enmd2pump": 1795749336.2114499,
+  "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump": 1795749336.2114499,
+  "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump": 1795749336.2114499,
+  "9o23zEgFu6VtSrBh9eeindVUGotghyxgC8KqLExYpump": 1795749336.2114499,
+  "J2We8huLbXG4Ueij766B6Yzjg3Ktf2qH5zhaD3cDpump": 1795749336.2114499,
+  "D3PSUeS11AQNgpfX8GRFdXfVzZwmNanPX9MdGKyHpump": 1795749336.2114499,
+  "3BYYoJdLfeXDSRXToqusYrjXDDgFnuo3ZnrDxMrntogg": 1795749336.2114499,
+  "25m4Lkct8nsYyqAMeE8rvjM3y5Zrrax46TLqNJjbpump": 1795749336.2114499,
+  "7f7DNcCvwW83VV79en46kxrQtUMMkWfEt2fnwvVupump": 1795749336.2114499,
+  "8YjTr1ehqPHXRTuZuULJAuciFqNMRJmNmzyrY2cUpump": 1795749336.2114499,
+  "RecRFwNXRbTuDwDnvokNv5h4hLQubaDZMJwKfshpump": 1795749336.2114499,
+  "7HY1KndMzQRRK7iCB9NEq5HpaZUDQb3MKNP9RBRyRovt": 1795749336.2114499,
+  "6xd5H7a5dRafVaTyKhhXkMS2iW9bDNPD7g5nAndoZhKK": 1795749336.2114499,
+  "3PokgWUKkL83XWS8oYnVRnqLbUrJ6btL7jcws3yspump": 1795749336.2114499,
+  "AirDybXt9hFUHnkJdf9VExqbB8gRaUD9xDu8ATqXpump": 1795749336.2114499,
+  "HpKjCnvJbgZ2ymjDvae5ZZ29t21FqECWN8ohWCFcpump": 1795749336.2114499,
+  "2QChKk7EvS3K9ezWu7Qs7981Qd2aJz4FEPce1HBZpump": 1795749336.2114499,
+  "8tiWobkyfwAaagnrQ2DdVi8L3cf83FuZWbsrWUTNpump": 1795749336.2114499
  }
 }

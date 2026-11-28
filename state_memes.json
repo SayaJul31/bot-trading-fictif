@@ -1,33 +1,33 @@
 {
- "cash": 466.1986265252167,
+ "cash": 419.21700343417467,
  "pos": {
   "Fo2HAwr7ZAUM2bSZ7MWSi16e3aWGpbw5MsUDYCttpump": {
    "sym": "PUMPCHAN",
    "entry": 0.0016480000000000002,
-   "last": 0.01606,
-   "peak": 0.01606,
+   "last": 0.01614,
+   "peak": 0.01614,
    "cost": 14.241191109701973,
    "t": 1795668937.0518737,
    "url": "https://dexscreener.com/solana/ddcyemq9bkyqtc93djkwah6vamkcjvsocuvgv29q7teb",
    "half": true
   },
-  "9TKbd3VFaMSXsEAicD9JVQWpWwAoLi4fSgWmZL2cpump": {
-   "sym": "Snowball",
-   "entry": 0.000770234,
-   "last": 0.0004971,
-   "peak": 0.0008173,
-   "cost": 32.97021953329081,
-   "t": 1795749336.2114499,
-   "url": "https://dexscreener.com/solana/aircdeu4yl6hjuina65mtwakzmex7stkzsinmyzhzkt2"
+  "AvvXpCVph4PtJ5urfhetPkdZYh8o4uW7CawUA2MK8hFT": {
+   "sym": "STEADY",
+   "entry": 0.00029035700000000004,
+   "last": 0.00029035700000000004,
+   "peak": 0.00029035700000000004,
+   "cost": 31.038378039715134,
+   "t": 1795829061.5544791,
+   "url": "https://dexscreener.com/solana/fa2wage4wktwygtpmkaxsegnyze7anje4byzzlhymtka"
   },
-  "9SMvQzDmGMpACAqET5PAmwUtHfBYdQ5a7SPLfQa4pump": {
-   "sym": "CI",
-   "entry": 0.000194052,
-   "last": 0.000194052,
-   "peak": 0.000194052,
-   "cost": 32.96103690929385,
-   "t": 1795817924.720791,
-   "url": "https://dexscreener.com/solana/5r3zovamnbtxewhjzkxqvmgdmhbqtr9qaqw5vngyjyce"
+  "6XGHv8KvqJg5Kekr8zydwmpHrJhWSARJZKJNTHJ97UyQ": {
+   "sym": "BITGOIN",
+   "entry": 11419.9396,
+   "last": 11419.9396,
+   "peak": 11419.9396,
+   "cost": 31.038378039715134,
+   "t": 1795829061.5544791,
+   "url": "https://dexscreener.com/solana/hfvpb5t7lznsxocprijajwxpaws7c7vjuorwnlorgreb"
   }
  },
  "history": [
@@ -669,6 +669,11 @@
   {
    "day": "2026-11-27 22:18",
    "equity": 659.22,
+   "positions": 3
+  },
+  {
+   "day": "2026-11-28 01:24",
+   "equity": 620.77,
    "positions": 3
   }
  ],
@@ -1449,37 +1454,37 @@
    "sym": "CI",
    "price": 0.000194052,
    "amount": 32.96
+  },
+  {
+   "day": "2026-11-28 01:24",
+   "side": "VENTE",
+   "sym": "Snowball",
+   "pnl": -0.5492,
+   "why": "stop -50 %"
+  },
+  {
+   "day": "2026-11-28 01:24",
+   "side": "VENTE",
+   "sym": "CI",
+   "pnl": -0.9929,
+   "why": "liquidite disparue (rug probable)"
+  },
+  {
+   "day": "2026-11-28 01:24",
+   "side": "ACHAT",
+   "sym": "STEADY",
+   "price": 0.00029035700000000004,
+   "amount": 31.04
+  },
+  {
+   "day": "2026-11-28 01:24",
+   "side": "ACHAT",
+   "sym": "BITGOIN",
+   "price": 11419.9396,
+   "amount": 31.04
   }
  ],
  "seen": {
-  "DkHsZ1kjd2Fua8sgKE6PhHhyCdXYscbDVN7mAfiGpump": 1795224154.035124,
-  "HmJRWZ8tFfuCY9A4MrSftnrvEFCApw1hyqHtb9Rzpump": 1795224154.035124,
-  "2KRbMf4itijwsTHb5dQtiBpfptyNmhpVzmpdj4qqN2yx": 1795224154.035124,
-  "4mE8dPH1RTqQBT5EPim5Ubt2v2wXZ9zgEDDWmL1o1EYu": 1795224154.035124,
-  "4KgreHYuTGrPdbFinSr4AyWEZBDgxC4xWvGe9T2ypump": 1795224154.035124,
-  "7CQx6HdDjowjcDUiNs1EfYqK5bp1hAR87CRsyLg8pump": 1795224154.035124,
-  "97TKE3fZ2FSZsCDeBZ7Q5zE2rWdyZSRAyhegSvrTpump": 1795224154.035124,
-  "2g3NFpebwCV6Abz7AhmVC4xmsaczQXbqxHV4Khy4pump": 1795224154.035124,
-  "jaiLjbxbtodpEy189owgwnhhgeqZEi6CzJJaziqL2ah": 1795224154.035124,
-  "CxGYpWoTun4J3xD4cNwXFRn2W3RzJozTxyU9nbJ4pump": 1795224154.035124,
-  "ACVkPjBRHWMZEKExATPQaw6PwMZ7ED4wobxomeWGpump": 1795224154.035124,
-  "7m7CncqD9pKGVkBeoTcaWd1gA9q6jkiXwLLWTNKupump": 1795224154.035124,
-  "Euj4Mx9GemNfFb36fAXYMKBaA2S9qgnt5qptmo8CKbX6": 1795224154.035124,
-  "GF6hi6auNDaqcKesKwVCNfWxeyezi7Emr85VuTYhpump": 1795224154.035124,
-  "3M5oAVgYEACK33irwebZohrmirNyac2nhvN1K6yd1hmz": 1795224154.035124,
-  "9iNRBbcNh6sMoGSxbe7AdfVUSQm7vDckEVJeDhSCpump": 1795224154.035124,
-  "D7MyAD7k3AqJpg4uxjUcmL51EDHrEsJxkjUynsxcpump": 1795224154.035124,
-  "6gfWBUx3bxGndsgHM5cUUiSzGNdpDLpQVBaA2oMppump": 1795224154.035124,
-  "7t2xeo5XC8Xt6MYHt53RpABSKh1LGKr6asypR1Hpump": 1795224154.035124,
-  "7i8AXjBdKGjGpRo4Ex5aDKUaX55xed5Hrgoww1G9pump": 1795224154.035124,
-  "EHL67tDDLXAJHmgp19Q2ftz56Vy4NDpc2Gf4uHEfLoaC": 1795224154.035124,
-  "B6u62Xc4nD9Rx9uDEJyRaZvDLLPRNJyF4Fbmf2PDpump": 1795224154.035124,
-  "CM65K38bqGePYkNQBjGRRDYMhyxgh9xTQg2HPQTFpump": 1795224154.035124,
-  "9YDVuxvVHQmUpxX86HJLQrUzbhmaAGGwyD32c3PPpump": 1795224154.035124,
-  "CTerwsBK7QFQBJWgTTSKV9LUYYJhRUouHPd8ijKXpump": 1795224154.035124,
-  "HMs3u6rx8DSruPMhXL7N2N5hciXTXa49e9LCoj1Apump": 1795224154.035124,
-  "3dYyBUHav1bc72aFueXuFiofEGgiXr2uXfsvxGXSpump": 1795224154.035124,
-  "Av2hQvRdZsunonVxwm8Jorm2qKxrjmeSwKc2eWvpump": 1795224154.035124,
   "7WCR1tjR5XHYn5xX7d6rXPh1B8RrBkLnJnPwN7bxpump": 1795229241.7422328,
   "GwRU4wwh6A9njT2QPDHtmxBrQnkVogBBLdU7eAXqpump": 1795229241.7422328,
   "5eSAuugtvermtS5W4nB28fJ9coj2mjjj1o8VaqYWUUMo": 1795229241.7422328,
@@ -2447,6 +2452,28 @@
   "G1ij1UjWBcUFtVHz5GVDAopPNMQcbwtdegH94LU6Jray": 1795817924.720791,
   "4wZaSLtmUGcRkUdVz46hnRT8HwNhWRihfdY9iWxTiLLY": 1795817924.720791,
   "AEDu1VnpNa6xPcWg6ZEqomA45nWzUBdo7VDqTpCPpump": 1795817924.720791,
-  "9rZR9nCQbaiBvotWVpifN8z1vckVFshnsATuAJrXpump": 1795817924.720791
+  "9rZR9nCQbaiBvotWVpifN8z1vckVFshnsATuAJrXpump": 1795817924.720791,
+  "AvvXpCVph4PtJ5urfhetPkdZYh8o4uW7CawUA2MK8hFT": 1795829061.5544791,
+  "9G9Ssh55SZEoniFjMrMefug9fBy67bUvHzWAxb5Ypump": 1795829061.5544791,
+  "6XGHv8KvqJg5Kekr8zydwmpHrJhWSARJZKJNTHJ97UyQ": 1795829061.5544791,
+  "viCEWiReoWxwmRRfGmWmpP1FFdB8Jm8PzZChVJ9dvg6": 1795829061.5544791,
+  "8CbCH51PziZKvD1k9M9qy24CqfkmNSiprRjT14xNQTZT": 1795829061.5544791,
+  "28GEp4GcNVHPtwZbkhNWKaw5MqW9QsDC5n5m7H79pump": 1795829061.5544791,
+  "CLcFahnBEHLhpMKhTore2mcMrzqssMRQdT5LGAkGU2sE": 1795829061.5544791,
+  "9PY2x8zdYDhbVtBEdT35duYY6EzwFXhyov9R5Uazpump": 1795829061.5544791,
+  "659ziXQiNko5cdGzPaBKVu81ahHzZMTFKBcNxe5ALXkG": 1795829061.5544791,
+  "CCoeBe5jaPKFNym8cNNdDzPZDYLPDB1p99Hyp2LfM4Sm": 1795829061.5544791,
+  "5TkyHpVZCnuW6w21q6mvFQ2Fgyvq3KySHJqfuki9pump": 1795829061.5544791,
+  "856eo2Q9FRC5Wb9GxAFpUR4SdaHiod3bP6Z6bGbopump": 1795829061.5544791,
+  "FUBkCysQKpguKCdLVeMmubFh8fuLi5qKKiJYpqDcpump": 1795829061.5544791,
+  "F82MdJHkpFYW9kbokK9wq2xXYnB4BTkCYaWEi3WTpump": 1795829061.5544791,
+  "14SsX1H9qge5qE3MeQK87hygFkmHBQnHxJEHgXkspump": 1795829061.5544791,
+  "GarXkFtt2CSW1E9i7dxKzcasnvP38qwFxyafPzqopump": 1795829061.5544791,
+  "6DmC5KR6DF62Gfz5oe8uVkNFrQb5N3kdXpKswA7pump": 1795829061.5544791,
+  "5U1gFupX5cvS8gqMm9DTh2bNcqUehc2H4GP3Skgxpump": 1795829061.5544791,
+  "3TVLUzjnS9gyf4pdoUweexbaGpfLuakA4goEygznpump": 1795829061.5544791,
+  "CLFWsFgDZ4DUcoD7JfkbQSJNaUTrZe5oUw4tTPERpump": 1795829061.5544791,
+  "52gfZmrZVjq6VhS6nNqN8bAsAL2AiY5aYwopc4Yfpump": 1795829061.5544791,
+  "81ijK2haeYqqjnoiPTtBMS9CBt2ThCcvdB6N3rQEpump": 1795829061.5544791
  }
 }
